@@ -1,0 +1,1 @@
+In this paper, the DeepCom results were obtained based on its author’s implementation and evaluation script here (https://github.com/xing-hu/TL-CodeSum/tree/master/translate). For more recent and consistent comparison among code annotation/summarization models, please refer to our WWW’19 paper (CoaCor).
