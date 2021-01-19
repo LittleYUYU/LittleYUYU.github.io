@@ -42,10 +42,14 @@ a:focus {
 .sidebar h1{
 	font-size:2.5em;
 	font-weight:700;
-	margin-bottom:1em;
 	COLOR:#fff;
-	font-family: 'Varela Round', sans-serif;
-	
+}
+.sidebar h2{
+  font-size:1.5em;
+  font-weight:700;
+  margin-bottom:1em;
+  COLOR:#fff;
+  font-family: 'SimSun', sans-serif;
 }
 .sidebar img{
 	border:1px solid #fff;
@@ -134,7 +138,6 @@ address span{
 	font-weight:600;
 	font-size:1.5em;
 	margin-bottom:6px;
-	font-family: 'Varela Round', sans-serif;
 }
 .company_details h4 span,.education_details h4 span{
 	font-size: 0.65em;
@@ -199,6 +202,9 @@ address span{
 h3.clr1{
 	background:#6ecadc;
   width:200px;
+  font-size:1.5em;
+  font-weight:500;
+  margin-bottom:0.5em;
 }
 h3.clr2{
 	background:#F65314; /*#e9a820;*/
