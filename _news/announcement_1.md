@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 09/2017
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Gave a talk about "Mining Code Answers to Natural Language Questions" at <i>OSU CSE AI seminar</i>.

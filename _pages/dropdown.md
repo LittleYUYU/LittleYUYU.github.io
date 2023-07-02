@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Others
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Prospective Students
+      permalink: /prospective_students/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: CV
+      permalink: /cv/
 ---
