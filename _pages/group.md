@@ -39,6 +39,13 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
     <li>Mihir Kulshreshtha (2023 Summer, Thomas Jefferson High School for Science Technology)</li>
 </ul>
 
+<h3>Group Photos</h3>
+<div class="container">
+{% include figure.html path="assets/img/naacl22.JPG" title="naacl22" class="img-fluid rounded z-depth-1" caption="GMU NLP at NAACL'22, Seattle, WA. L2R: Roy, Saurabh, Ziyu, Antonis, Daking, and Fahim." %}
+{% include figure.html path="assets/img/elias_visit.JPG" title="elias_visit" class="img-fluid rounded z-depth-1" caption="Elias's visit in Spring'23. L2R: Murong, Saurabh, Hao, Daking, Ziyu, Mohamed, Elias, and Long." %}
+</div>
+
+
 <h3>Sponsors</h3>
 Our research was funded by the following projects. We are grateful for all the support!
 

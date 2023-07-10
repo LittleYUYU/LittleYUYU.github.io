@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: CV
       permalink: /cv/
+    - title: divider
+    - title: Group Reading
+      permalink: /group_reading/
 ---
