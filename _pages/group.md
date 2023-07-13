@@ -36,7 +36,8 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>High school Students</h3>
 <ul>
-    <li>Mihir Kulshreshtha (2023 Summer, Thomas Jefferson High School for Science Technology)</li>
+    <li>Mihir Kulshreshtha (2023 Summer, Thomas Jefferson High School for Science and Technology)</li>
+    <li>Anika Giri (2023 Summer, Chantilly High School)</li>
 </ul>
 
 <h3>Group Photos</h3>
