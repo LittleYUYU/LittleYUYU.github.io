@@ -27,7 +27,7 @@ Hello! I am an Assistant Professor of the <a href="https://cs.gmu.edu/">Departme
   <li><i>Efficient NLP/AI for X:</i> I study building machine learning models with limited supervision, especially for low-resource domains (e.g., healthcare).</li>
 </ul>
 
-Check out my group <a href="./group">here</a>! For prospective students, please read <a href="./prospective_students">this page</a> before contacting me.
+<b>Check out my group <a href="./group">here</a>! For prospective students, please read <a href="./prospective_students">this page</a> before contacting me.</b>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

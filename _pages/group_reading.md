@@ -13,3 +13,4 @@ My group welcomes collaborations and has hosted multiple invited talks in the pa
 - "Event-Centric Multimedia Data Understanding", Fall'22, <a href="https://limanling.github.io/">Manling Li (PhD@UIUC)</a>
 - "Pre-train, Prompt, and Predict" (Guest Lecture at CS678 Advanced NLP), Fall'22, <a href="http://pfliu.com/">Pengfei Liu (Postdoc@CMU)</a>
 
+We thank all the speakers!
