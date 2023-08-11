@@ -619,6 +619,11 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .highlight {
+        font-weight: bolder;
+        color: rgb(203, 29, 29);
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);

@@ -52,23 +52,26 @@ Our research was funded by the following projects. We are grateful for all the s
 
 <div class="container">
 <div class="row">
+    <div class="col-md align-items-center">
+        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code (Role: Co-PI, 2023-2027)" %}
+        </div>
     <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="IARPA’s STG AI-ML Solutions Program (Role: Co-PI, 2023-2024)" %}
     </div>
     <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing Interactions between Humans and Machines (Role: PI, 2022-2023)" %}
     </div>
-    <div class="col-md align-items-center">
-        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="NSF Convergence Accelerator Track G: Secure Texting over Non-cooperative Networks and Anti-jamming Enhancement in 5G (Role: Senior Personnel, 2022-2023)" %}
-    </div>
 </div>
 </div>
 <div class="container">
     <div class="row">
-         <div class="col-sm-4">
+        <div class="col-md align-items-center">
+        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="NSF Convergence Accelerator Track G: Secure Texting over Non-cooperative Networks and Anti-jamming Enhancement in 5G (Role: Senior Personnel, 2022-2023)" %}
+        </div>
+        <div class="col-sm align-items-center">
             {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="AI Engineering Seedlings (Role: Co-PI, 2021-2022)" %}
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm align-items-center">
             {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="Startup Fund from CEC and CS, GMU Libraries, and the Office of Research Computing" %}
         </div>
     </div>
