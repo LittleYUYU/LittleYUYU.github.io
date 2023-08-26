@@ -28,6 +28,8 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>Undergraduate Students</h3>
 <ul>
+    <li>Wijdane Mifdal (2023 Fall --)</li>
+    <li>Shruti Sekar (2023 Fall --)</li>
     <li>Mariana Ritchie (2022 Spring)</li>
     <li>Brian Meike (2022 Spring)</li>
     <li>Soumithri Gadepalli (2022 Spring)</li>
