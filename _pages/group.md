@@ -16,7 +16,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
     <li><a href="https://dakingrai.github.io/">Daking Rai</a> (2022 Spring-)</li>
     <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring-)</li>
     <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall-)</li>
-    <li>Long Doan (2022 Fall-)</li>
+    <!-- <li>Long Doan (2022 Fall-)</li> -->
     <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring-, w/ <a href="https://cs.gmu.edu/~plaku/index.html">Erion Plaku</a>)</li>
 </ul>
 
@@ -29,7 +29,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 <h3>Undergraduate Students</h3>
 <ul>
     <li>Wijdane Mifdal (OSCAR, 2023 Fall --)</li>
-    <li>Shruti Sekar (2023 Fall --)</li>
+    <!-- <li>Shruti Sekar (2023 Fall --)</li> -->
     <li>Mariana Ritchie (2022 Spring)</li>
     <li>Brian Meike (2022 Spring)</li>
     <li>Soumithri Gadepalli (2022 Spring)</li>
@@ -55,6 +55,9 @@ Our research was funded by the following projects. We are grateful for all the s
 <div class="container">
 <div class="row">
     <div class="col-sm align-items-center">
+        {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing the Supply Chain of Large Language Models as Software. Role: PI, 01/2024-12/2024. w/ Xiaokuan Zhang (GMU)" %}
+    </div>
+    <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/microsoft.png" title="Microsoft Research" class="img-fluid rounded z-depth-1" caption="Azure credits for Accelerating Foundation Models Research. Role: PI, Sept 2023-Jan 2024." %}
     </div>
     <div class="col-md align-items-center">
@@ -63,13 +66,13 @@ Our research was funded by the following projects. We are grateful for all the s
     <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="IARPA’s STG AI-ML Solutions Program. Role: Co-PI, 2023-2024. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
     </div>
-    <div class="col-sm align-items-center">
-        {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing Interactions between Humans and Machines. Role: PI, 2022-2023. w/ Tyler H. Shaw (GMU)" %}
-    </div>
 </div>
 </div>
 <div class="container">
     <div class="row">
+        <div class="col-sm align-items-center">
+        {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing Interactions between Humans and Machines. Role: PI, 2022-2023. w/ Tyler H. Shaw (GMU)" %}
+        </div>
         <div class="col-md align-items-center">
         {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="NSF Convergence Accelerator Track G: Secure Texting over Non-cooperative Networks and Anti-jamming Enhancement in 5G. Role: Senior Personnel, 2022-2023. Led by Kai Zeng (PI@GMU)" %}
         </div>
