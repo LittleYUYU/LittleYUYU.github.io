@@ -14,6 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 All class materials can be found from the <a href="https://nlp.cs.gmu.edu/">George Mason NLP Group</a> website.
 
 <ul>
+    <li>2024 Spring: Advanced Natural Language Processing (CS 678)</li>
     <li>2023 Fall: Advanced Natural Language Processing (CS 678)</li>
     <li>2023 Spring: Natural Language Processing (CS 478)</li>
     <li>2022 Fall: Advanced Natural Language Processing (CS 678)</li>

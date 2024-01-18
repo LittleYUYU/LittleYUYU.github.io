@@ -38,7 +38,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>High school Students</h3>
 <ul>
-    <li>Mihir Kulshreshtha (2023 Summer, Thomas Jefferson High School for Science and Technology)</li>
+    <li>Mihir Kulshreshtha (2023 Summer, Thomas Jefferson High School for Science and Technology, through <a href="https://science.gmu.edu/assip">ASSIP Program</a>; <a href="https://journals.gmu.edu/index.php/jssr/article/view/3942">published abstract</a>)</li>
     <li>Anika Giri (2023 Summer, Chantilly High School)</li>
 </ul>
 

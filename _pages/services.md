@@ -23,7 +23,7 @@ nav_order: 4
 <ul>
     <li>Spoke about "Generative AI for Secure and Covert Communication" at Morgan State University AI Camp, 2023 Summer</li>
     <li>Spoke at the "Girls Who Code" chapter at Chantilly High School, 2023 Spring</li>
-    <li>Served as Panelist at an NSF-founded Webinar about "Securely Operating Through 5G Infrastructure" (w/ GMU ECE, MSU, and UDC), 2023 Spring</li>
+    <li>Served as Panelist at an NSF-funded Webinar about "Securely Operating Through 5G Infrastructure" (w/ GMU ECE, MSU, and UDC), 2023 Spring</li>
     <li>Served as Judge at the Science and Engineering Fair at <a href="https://tjhsst.fcps.edu/">Thomas Jefferson High School for Science and Technology</a>, 2023 Spring</li>
     <li>Served as Undergraduate Mentor at <a href="https://kdd.org/kdd2022/cfpUG.html">Undergraduate Consortium at KDD 2022</a>, 2022 Summer</li>
 </ul>
