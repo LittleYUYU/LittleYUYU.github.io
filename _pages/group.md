@@ -29,6 +29,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 <h3>Undergraduate Students</h3>
 <ul>
     <li>Wijdane Mifdal (OSCAR, 2023 Fall --)</li>
+    <li>Qineng Wang (2023 Spring -- 2023 Winter, remote intern from ZJU)</li>
     <!-- <li>Shruti Sekar (2023 Fall --)</li> -->
     <li>Mariana Ritchie (2022 Spring)</li>
     <li>Brian Meike (2022 Spring)</li>
