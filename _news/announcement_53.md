@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2/2024
+date: 3/2024
 inline: true
 related_posts: false
 ---
 
-:loudspeaker: Upcoming talks at University of Arizona (mid March), Virginia Tech NVC (late March), IUPUI (mid April), and Microsoft Research (late May)!
+:loudspeaker: Invited to give a guest lecture about LLMs at Department of Health Administration and Policy and School of Education at GMU!

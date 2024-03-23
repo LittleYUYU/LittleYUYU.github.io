@@ -8,7 +8,9 @@ nav_order: 5
 ---
 
 <ul>
+    <li>Recognition for Service on Hangs-On Generative AI Tutorial, GMU CEC, 2024</li>
     <li>Top Reviewer, NeurIPS, 2023.</li>
+    <li><a href="https://www.microsoft.com/en-us/research/project/afmr-cognition-and-societal-benefits/">Accelerating Foundation Models Research Program</a>, Microsoft Research, 2023</li>
     <li>Editor Commendation, Journal of Business and Psychology, 2023.</li>
     <li>Best Paper Award, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021.</li>
     <li>Graduate Student Research Award, OSU, CSE, 2021.</li>
