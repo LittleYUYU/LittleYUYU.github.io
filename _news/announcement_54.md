@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:loudspeaker: Upcoming talks at University of Arizona (mid March), Virginia Tech NVC (late March), IUPUI (mid April), and Microsoft Research (late May)!
+:loudspeaker: I was invited to talk about "Towards Enhancing the Utilization of Large Language Models for Humans" at University of Arizona and Virginia Tech NVC! Slides are available <a href="../assets/pdf/LLM-Utilization-2024.pdf">here</a>.
