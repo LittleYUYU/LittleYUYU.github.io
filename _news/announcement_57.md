@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: CONGRATS to Murong for being awarded the **Outstanding PhD Student** by GMU CS!
+:tada: CONGRATS to Murong for being awarded an **Outstanding PhD Student** by GMU CS, and Hao for receiving the Summer 2024 GRA Fellowship from <a href="https://cahmp.gmu.edu/">CAHMP</a>! 
