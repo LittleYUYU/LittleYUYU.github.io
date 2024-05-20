@@ -46,8 +46,9 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>Group Photos</h3>
 <div class="container">
-{% include figure.html path="assets/img/naacl22.JPG" title="naacl22" class="img-fluid rounded z-depth-1" caption="GMU NLP at NAACL'22, Seattle, WA. L2R: Roy, Saurabh, Ziyu, Antonis, Daking, and Fahim." %}
+{% include figure.html path="assets/img/group_shenandoah_2024.jpeg" title="Shenandoah 2024" class="img-fluid rounded z-depth-1" caption="Group activity at Shenandoah in Spring'24. L2R: Surendra, Murong, Hao, Saurabh, Mohamed, Ziyu, Dingkang, Daking, and Min." %}
 {% include figure.html path="assets/img/elias_visit.JPG" title="elias_visit" class="img-fluid rounded z-depth-1" caption="Elias's visit in Spring'23. L2R: Murong, Saurabh, Hao, Daking, Ziyu, Mohamed, Elias, and Long." %}
+{% include figure.html path="assets/img/naacl22.JPG" title="naacl22" class="img-fluid rounded z-depth-1" caption="GMU NLP at NAACL'22, Seattle, WA. L2R: Roy, Saurabh, Ziyu, Antonis, Daking, and Fahim." %}
 </div>
 
 
