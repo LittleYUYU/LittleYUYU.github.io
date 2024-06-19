@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 <ul>
+    <li>Outstanding PhD Student Award, GMU CS, 2024 (to Murong Yue)</li>
     <li>Recognition for Service on Hangs-On Generative AI Tutorial, GMU CEC, 2024</li>
     <li>Top Reviewer, NeurIPS, 2023.</li>
     <li><a href="https://www.microsoft.com/en-us/research/project/afmr-cognition-and-societal-benefits/">Accelerating Foundation Models Research Program</a>, Microsoft Research, 2023</li>
