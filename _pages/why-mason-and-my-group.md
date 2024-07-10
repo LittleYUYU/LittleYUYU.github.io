@@ -5,7 +5,7 @@ title: Why Should You Apply for Mason CS and Working with Me?
 nav: false
 ---
 
-<h1>Why George Mason Computer Science (CS)?</h1>
+<h2>Why George Mason Computer Science (CS)?</h2>
 We are a fast developing department in the <b>largest public university at Virginia</b>! No matter if you have heard about us or not, you should know the following facts!
 
 - **Ranking**: We are now at No.32 on <a href="https://csrankings.org/#/index?all&us">csranking</a>, the most up-to-date and widely adopted metric for CS departments. On USNews we are at No. 63.
@@ -23,22 +23,22 @@ We are a fast developing department in the <b>largest public university at Virgi
 More facts about us can be found in <a href="https://github.com/dynaroars/dynaroars.github.io/wiki/About-GMU">this wiki page organized by Prof. ThanhVu Nguyen</a>. 
 
 
-<h1>Why Working with Me?</h1>
+<h2>Why Working with Me?</h2>
 
 For PhD study, picking a **fit** advisor is important (and arguably outweighs picking a university). Make sure to check out <a href="https://ziyuyao.org/">my research topics </a> and read some of <a href="https://ziyuyao.org/publications/">my publications</a> as the first step.
 
 If you share similar research interest with me -- this is excellent! Now, the following will tell you some of the reasons why you should work with me!
 
 - **If you work with me, you will work on the most exciting topics in NLP/AI!** As most young faculty, I work actively on cutting-edge research topics! I have been serving as Area Chair in sub-topics such as Question Answering, LLMs, and Interpretability in ACL/EMNLP/NAACL/AAAI/etc. 
-- **If you work with me, you will receive careful and thoughtful advice for research and beyond.** I recruit students up to a group size that I'm confident to manage. Therefore, the size is typically small or medium with 5-7 PhD students and a few Master and Undergraduate students. I'm a very responsible advisor and I take care of my students equally (check out <a href="./group.md">my students' achievements</a>). This goes beyond research work to lifelong matters such as how to lifelong learn, how to maintain a positive attitude, work-life balance, career choice, etc.
+- **If you work with me, you will receive careful and thoughtful advice for research and beyond.** I recruit students up to a group size that I'm confident to manage. Therefore, the size is typically small or medium with 5-7 PhD students and a few Master and Undergraduate students. I'm a very responsible advisor and I take care of my students equally (check out <a href="../group">my students' achievements</a>). This goes beyond research work to lifelong matters such as how to lifelong learn, how to maintain a positive attitude, work-life balance, career choice, etc.
     - _Highlight:_ As an example, my student Murong Yue was awarded the _Outstanding PhD Student Award_ by the CS department in the end of his second year.
     - I'm a very open-minded advisor. I welcome feedback from my students and feel happy becoming friends with them!
 - **If you work with me, you will have opportunities to collaborate with people from various prestigious institutions.** Collaborators of our group have come from both George Mason and beyond, such as NYU, MIT, NC State, Microsoft, Meta, Salesforce, etc. In addition to receiving valuable research feedback and advice, such opportunities will open the door for social networking, job/internship hunting, etc.
 - **If you work with me, you will have your work presented in various prestigious institutions and media press.** I regularly receive invitations to present my work outside George Mason. In 2024 by the time of this post (early July), I have given 7 presentations in <a href="https://twitter.com/TechAtBloomberg/status/1793650599646421173">Bloomberg's CTO Speaker Series</a>, Microsoft Research, NYU, Virginia Tech, IUPUI, etc. Sometimes our work also gets covered by media press (e.g., MIT Technology Review China).
-- **If you work with me, you will easily make friends with others in the group.** The path to PhD is not easy no matter which group you will join; you will need friends and peers supporting you! I commit to create a group that is welcoming, supporting, and diverse. We have weekly group meetings for research discussion and occasionally social events (e.g., when we have guest visits). I also try to have at least one social activity outside the campus every year. Check out <a href="./group.md">our group activity photos</a>! 
+- **If you work with me, you will easily make friends with others in the group.** The path to PhD is not easy no matter which group you will join; you will need friends and peers supporting you! I commit to create a group that is welcoming, supporting, and diverse. We have weekly group meetings for research discussion and occasionally social events (e.g., when we have guest visits). I also try to have at least one social activity outside the campus every year. Check out <a href="../group">our group activity photos</a>! 
 
 
-<h1>What Do I Look For from Prospective Students?</h1>
+<h2>What Do I Look For from Prospective Students?</h2>
 
 
 Students admitted to my group generally share the following traits:
@@ -51,9 +51,9 @@ Students admitted to my group generally share the following traits:
 **Do I need to have paper publications if I want to work with you?** Paper publications _at top-tier NLP/AI venues_ are not necessary but can help me understand if you have the traits I listed above. In fact, most students in my group did not come with any good publications. However, they impressed me with various valuable traits from their resume or during the interview.
 
 
-<h1>What's Next?</h1>
+<h2>What's Next?</h2>
 <i>I want to work with you</i> -- if this is what you are thinking now, wonderful!! 
 
 George Mason is a public university so every application will first be scrutinized by the admission committee. Please follow <a href="https://cec.gmu.edu/admissions/graduate-admissions/application-requirements-and-deadlines">the university application process</a> and do not miss the deadline.
 
-If you want to work with me, it is necessary to send me an email and let me know your interest. I do have <a href="./prospective_students.md">some requirements on the email format and content</a> and I prioritize prospective students who are serious about my requirements.
+If you want to work with me, it is necessary to send me an email and let me know your interest. I do have <a href="../prospective_students.md">some requirements on the email format and content</a> and I prioritize prospective students who are serious about my requirements.
