@@ -11,14 +11,14 @@ We are a fast developing department in the <b>largest public university at Virgi
 - **Ranking**: We are now at No.32 on <a href="https://csrankings.org/#/index?all&us">csranking</a>, the most up-to-date and widely adopted metric for CS departments. On USNews we are at No. 63.
 
 - **Strong Faculty Team in Diverse Research Areas**: We now have 78 total (36 tenured, 21 tenure-track, 21 term) faculty in the department working on <a href="https://cs.gmu.edu/research/research-areas/">a diverse set of research topics including AI, Robotics, Software Engineering, and Security</a>. Our faculty graduated from prestigious institutions in the US (e.g., MIT, Brown, Penn, OSU) and across the world.
-    - Speficialy for NLP, the NLP Lab at CS (https://nlp.cs.gmu.edu/) now includes two faculty and ~20 PhD students (10 more Masters and Undergraduate students). In addition, there are also a couple other faculty in the IST and Linguistics departments working on NLP. We closely collaborate with each other.
+    - Speficialy for NLP, the <a href="https://nlp.cs.gmu.edu/">NLP Lab at CS</a> now includes two faculty and ~15 PhD students (10 more Masters and Undergraduate students). In addition, there are also a couple other faculty in the IST and Linguistics departments working on NLP. We closely collaborate with each other.
     - Relevant to NLP, we also have faculty working on Machine Learning (e.g., <a href="https://mingrliu.github.io/">Mingrui Liu</a>) and Computer Vision (e.g., <a href="https://cs.gmu.edu/~kosecka/">Jana Kosecka</a>). We discuss ideas and collaborate frequently.
 
 - **One of the BEST Locations for Study and Living:** Our main campus, the Fairfax campus, locates in the suburb area of Washington D.C. --- only 30 minutes of driving distance! This is one of the best locations in the US where you will enjoy extremely convenient, fun, and safe life while pursuing the PhD study! A few more fun facts about our location:
-    - Both the Dulles and the Reagan airports, two of the largest international airports our international students will fly to, locate 30 minutes away from us. _This also means that you will easily fly to everywhere in the world for conference attendence, job interviews, or just traveling for fun!_
+    - Both the Dulles and the Reagan airports, two of the largest international airports our international students will fly to, locate only 30 minutes away from us. _This also means that you will easily fly to everywhere in the world for conference attendence, job interviews, or just traveling for fun!_
     - Amazon's second headquarter (HQ2) locates in Arlington, VA, which is 30 minutes from our Fairfax campus and 10 minutes from our Arlington campus.
-    - Other than Amazon, the area also includes many global companies (e.g., headquarter of Boeing and Capital One) with plenty of technology jobs.
-    - If you are thinking about even a longer term, this area is well-known for young-generation education, including having the nationally top-ranked high school TJHSS.
+    - Other than Amazon, the area also includes many global (e.g., headquarter of Boeing and Capital One) and local companies with plenty of technology jobs.
+    - If you are thinking about even a longer term, this area is well-known for young-generation education, including having the nationally top-ranked high school TJHSST.
 
 More facts about us can be found in <a href="https://github.com/dynaroars/dynaroars.github.io/wiki/About-GMU">this wiki page organized by Prof. ThanhVu Nguyen</a>. 
 
@@ -43,8 +43,8 @@ If you share similar research interest with me -- this is excellent! Now, the fo
 
 Students admitted to my group generally share the following traits:
 
-- **Solid mathematics and engineering (e.g., ML or system implementation) background**: I typically look for it from your course performance and relevant experience; 
-- **Critical and logical thinking:** The way you think generally shows your potential of doing good research. As an example, when you see good or bad performance from the ML model you trained, have you thought about why, and have you taken any actions to validate your thought? Having a critical mind is the basis for doing research. I do not admit students who make progress by asking me "what should I do next" and simply following my words without thinking.
+- **Solid mathematics and engineering backgrounds**: This includes solid knowledge in probability theory, linear algebra, etc., and being skillsful in ML model or system implementation, debugging and problem-solving, etc. I typically look for them from your course performance and relevant experience.
+- **Critical and active thinking:** The way you think generally shows your potential of doing good research. As an example, when you see good or bad performance from the ML model you trained, have you thought about why, and have you taken any actions to validate your thought? Having a critical mind and the motivation to actively think are the bases for doing research. I do not admit students who make progress by asking me "what should I do next" and simply following my words without thinking.
 - **Passion, persistence, and self-motivation:** PhD study is a big commitment; it means you will spend the coming 5 or 6 or even more years on one topic or field. It is also full of challenges and frustration; you may experience failures in experiements, find that your hypothesis is completely wrong, get your papers rejected, etc. -- in those cases, will you continue the exploration or give up? 
 - **Good life habits:** You don't study 24/7; you have life! I hope you love your life just like how you love research (or the other way around) -- of course, this means to have a smart way for time management, so you can enjoy both of them. Maintaining good habits to handle pressure and stay positive, will make your PhD life much easier and more joyful! 
 
