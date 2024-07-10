@@ -16,12 +16,13 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
     <li><a href="https://dakingrai.github.io/">Daking Rai</a> (2022 Spring-; <a href="https://arxiv.org/pdf/2406.12288">ACL'24</a>; <a href="https://arxiv.org/pdf/2305.17378.pdf">ACL'23</a>, <a href="https://arxiv.org/pdf/2301.13820.pdf">AAAI-SA'23</a>)</li>
     <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring-; <a href="https://arxiv.org/pdf/2310.02107.pdf">ACL'24</a>; <a href="https://arxiv.org/pdf/2305.13469.pdf">EMNLP'23</a>, <a href="https://arxiv.org/pdf/2305.08195.pdf">ACL'23</a>)</li>
     <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall-; <a href="https://arxiv.org/pdf/2310.03094.pdf">ICLR'24</a>, <a href="https://arxiv.org/pdf/2308.04030.pdf">EMNLP-demo'23</a>)</li>
-    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring-, w/ <a href="https://cs.gmu.edu/~plaku/index.html">Erion Plaku</a>; <a href="https://arxiv.org/pdf/2406.12000">IEEE CASE'24</a>; <a href="https://arxiv.org/pdf/2310.03249.pdf">ICLR-W'24</a>)</li>
+    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring-; <a href="https://arxiv.org/pdf/2406.12000">IEEE CASE'24</a>; <a href="https://arxiv.org/pdf/2310.03249.pdf">ICLR-W'24</a>)</li>
 </ul>
 
 <h3>Master Students</h3>
 <ul>
     <li>Sweta Pati (2024 Summer)</li>
+    <li>Sam Miller (2024 Summer)</li>
     <li>Janit Bidhan (2022 Fall)</li>
     <li>Gaurav Singh (2022 Spring)</li>
 </ul>
@@ -39,10 +40,12 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
     <li>Yintao Tai (2021 Fall, remote intern from UofEdinburgh -> MS@UofEdinburgh)</li>
 </ul>
 
-<h3>High school Students</h3>
+<h3>High School Students (typically through GMU's <a href="https://science.gmu.edu/assip">ASSIP Program</a>)</h3>
 <ul>
-    <li>Mihir Kulshreshtha (2023 Summer, Thomas Jefferson High School for Science and Technology, through <a href="https://science.gmu.edu/assip">ASSIP Program</a>; <a href="https://journals.gmu.edu/index.php/jssr/article/view/3942">published abstract</a> --> BS@Cornell)</li>
-    <li>Anika Giri (2023 Summer, Chantilly High School)</li>
+    <li>Sarah Li (2024 Summer ASSIP, McLean High School)</li>
+    <li>Angela Xiang (2024 SummerASSIP, Montgomery Blair High School)</li>
+    <li>Mihir Kulshreshtha (2023 Summer ASSIP, Thomas Jefferson High School for Science and Technology; <a href="https://journals.gmu.edu/index.php/jssr/article/view/3942">published abstract</a> --> BS@Cornell)</li>
+    <li>Anika Giri (2023 Summer Intern, Chantilly High School)</li>
 </ul>
 
 <h3>Group Photos</h3>
