@@ -7,6 +7,8 @@ dropdown: true
 children: 
     - title: Prospective Students
       permalink: /prospective_students/
+    - title: Why Mason CS and Me
+      permalink: /why-mason-and-my-group/
     - title: divider
     - title: CV
       permalink: /cv/
