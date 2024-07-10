@@ -56,4 +56,4 @@ Students admitted to my group generally share the following traits:
 
 George Mason is a public university so every application will first be scrutinized by the admission committee. Please follow <a href="https://cec.gmu.edu/admissions/graduate-admissions/application-requirements-and-deadlines">the university application process</a> and do not miss the deadline.
 
-If you want to work with me, it is necessary to send me an email and let me know your interest. I do have <a href="../prospective_students.md">some requirements on the email format and content</a> and I prioritize prospective students who are serious about my requirements.
+If you want to work with me, it is necessary to send me an email and let me know your interest. I do have <a href="../prospective_students">some requirements on the email format and content</a> and I prioritize prospective students who are serious about my requirements.
