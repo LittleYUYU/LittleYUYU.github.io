@@ -40,7 +40,9 @@ Hello! I am an Assistant Professor of the <a href="https://cs.gmu.edu/">Departme
 
 <!-- :star2: Excited to launch <a href="https://github.com/Gentopia-AI/Gentopia">Gentopia-AI</a>, an open-source platform for creating, evaluating, and community-sharing <b>Augmented Language Model (ALM)-based Agents</b>! Check out our [teams](https://gentopia-ai.github.io/Gentopia-AI-Homepage/#about) with researchers and engineers from NC State, UMich/PennState, George Mason, CMU, etc. Stay tuned and join us! (_Update Oct 2023: Gentopia has been accepted to EMNLP'23 Demo!_) -->
 
-**Check out my group <a href="./group">here</a>! For prospective students, please read <a href="./prospective_students">this page</a> before contacting me. Contact me at ziyuyao [AT] gmu [DOT] edu and follow me on <a href="https://twitter.com/ZiyuYao">Twitter</a>!**
+**Check out my group <a href="./group">here</a>! Contact me at ziyuyao [AT] gmu [DOT] edu and follow me on <a href="https://twitter.com/ZiyuYao">Twitter</a>!**
+
+**I will recruit 1-2 PhD students for the Fall'25 cycle. If you are interested, please read <a href="./prospective_students">this page</a> before contacting me.**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
