@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /why-mason-and-my-group/
-title: Why Should You Apply for Mason CS and Working with Me?
+title: Why Should You Apply for Mason CS and Work with Me? And, What Do I Look For From Students?
 nav: false
 ---
 

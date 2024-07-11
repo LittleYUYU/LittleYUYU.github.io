@@ -43,7 +43,9 @@ Hello! I am an Assistant Professor of the <a href="https://cs.gmu.edu/">Departme
 
 <!-- **Check out my group <a href="./group">here</a>! Contact me at ziyuyao [AT] gmu [DOT] edu and follow me on <a href="https://twitter.com/ZiyuYao">Twitter</a>!** -->
 
-**:loudspeaker: I will recruit 1-2 PhD students for the Fall'25 cycle. I wrote a blog "Why you should apply for Mason CS and work with me" <a href="./why-mason-and-my-group">here</a>. If you are interested, please contact me following the instructions on <a href="./prospective_students">this page</a>.**
+<div style="border: 3px solid #006633; padding: 10px; background-color: #FFCC33">
+  **:loudspeaker: I will recruit 1-2 PhD students for the Fall'25 cycle. I wrote a blog "Why you should apply for Mason CS and work with me" <a href="./why-mason-and-my-group">here</a>. If you are interested, please contact me following the instructions on <a href="./prospective_students">this page</a>.**
+</div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
