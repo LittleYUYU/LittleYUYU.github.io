@@ -15,7 +15,7 @@ We are a fast developing department in the <b>largest public university at Virgi
     - Relevant to NLP, we also have faculty working on Machine Learning (e.g., <a href="https://mingrliu.github.io/">Mingrui Liu</a>) and Computer Vision (e.g., <a href="https://cs.gmu.edu/~kosecka/">Jana Kosecka</a>). We discuss ideas and collaborate frequently.
 
 - **One of the BEST Locations for Study and Living:** Our main campus, the Fairfax campus, locates in the suburb area of Washington D.C. --- only 30 minutes of driving distance! This is one of the best locations in the US where you will enjoy extremely convenient, fun, and safe life while pursuing the PhD study! A few more fun facts about our location:
-    - Both the Dulles and the Reagan airports, two of the largest international airports our international students will fly to, locate only 30 minutes away from us. _This also means that you will easily fly to everywhere in the world for conference attendence, job interviews, or just traveling for fun!_
+    - Both the Dulles and the Reagan airports locate only 30 minutes away from us. In particular, many of our international students reach us through the Dulles international airport. _This also means that you will easily fly to everywhere in the world for conference attendence, job interviews, or just traveling for fun!_
     - Amazon's second headquarter (HQ2) locates in Arlington, VA, which is 30 minutes from our Fairfax campus and 10 minutes from our Arlington campus.
     - Other than Amazon, the area also includes many global (e.g., headquarter of Boeing and Capital One) and local companies with plenty of technology jobs.
     - If you are thinking about even a longer term, this area is well-known for young-generation education, including having the nationally top-ranked high school TJHSST.
@@ -29,7 +29,7 @@ For PhD study, picking a **fit** advisor is important (and arguably outweighs pi
 
 If you share similar research interest with me -- this is excellent! Now, the following will tell you some of the reasons why you should work with me!
 
-- **If you work with me, you will work on the most exciting topics in NLP/AI!** As most young faculty, I work actively on cutting-edge research topics! I have been serving as Area Chair in sub-topics such as Question Answering, LLMs, and Interpretability in ACL/EMNLP/NAACL/AAAI/etc. 
+- **If you work with me, you will work on the most exciting topics in NLP/AI!** I work actively on cutting-edge research topics. I have been serving as Area Chair in sub-topics such as Question Answering, LLMs, and Interpretability in ACL/EMNLP/NAACL/AAAI/etc. 
 - **If you work with me, you will receive careful and thoughtful advice for research and beyond.** I recruit students up to a group size that I'm confident to manage. Therefore, the size is typically small or medium with 5-7 PhD students and a few Master and Undergraduate students. I'm a very responsible advisor and I take care of my students equally (check out <a href="../group">my students' achievements</a>). This goes beyond research work to lifelong matters such as how to lifelong learn, how to maintain a positive attitude, work-life balance, career choice, etc.
     - _Highlight:_ As an example, my student Murong Yue was awarded the _Outstanding PhD Student Award_ by the CS department in the end of his second year.
     - I'm a very open-minded advisor. I welcome feedback from my students and feel happy becoming friends with them!
@@ -43,7 +43,7 @@ If you share similar research interest with me -- this is excellent! Now, the fo
 
 Students admitted to my group generally share the following traits:
 
-- **Solid mathematics and engineering backgrounds**: This includes solid knowledge in probability theory, linear algebra, etc., and being skillsful in ML model or system implementation, debugging and problem-solving, etc. I typically look for them from your course performance and relevant experience.
+- **Solid mathematics and engineering backgrounds**: These include solid knowledge in probability theory, linear algebra, etc., and being skillful in ML model or system implementation, debugging and problem-solving, etc. I typically look for them from your course performance and relevant experience.
 - **Critical and active thinking:** The way you think generally shows your potential of doing good research. As an example, when you see good or bad performance from the ML model you trained, have you thought about why, and have you taken any actions to validate your thought? Having a critical mind and the motivation to actively think are the bases for doing research. I do not admit students who make progress by asking me "what should I do next" and simply following my words without thinking.
 - **Passion, persistence, and self-motivation:** PhD study is a big commitment; it means you will spend the coming 5 or 6 or even more years on one topic or field. It is also full of challenges and frustration; you may experience failures in experiements, find that your hypothesis is completely wrong, get your papers rejected, etc. -- in those cases, will you continue the exploration or give up? 
 - **Healthy communication:** I hope to have upfront communications with my students. Without healthy communication, I won't know what students are thinking about, what problem they are facing, and how I can help.
