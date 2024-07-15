@@ -7,9 +7,17 @@ nav: false
 
 I am always looking for highly self-motivated students for NLP/AI research. Due to the large volume, I cannot reply to every email; however, I check them very carefully.
 
-**FOR ALL INTERESTED STUDENTS:** Please make sure to read some of my publications before contacting me. Also make sure to discuss your interest (e.g., which topics do you have the most interest? do you have any thoughts on my papers?) in your email. Typically, I do not respond to emails that are not specific to me.
+<div style="border: 3px solid #006633; padding: 10px; background-color: #FFCC33">
+  For *all* interested students, please make sure to read some of my publications before contacting me. In your email,
+  <ul>
+    <li>Please enumerate 1-2 of my publications which you have the most interest;</li>
+    <li>For each publication, briefly describe what you read and what you see as the strengths and weaknesses of the paper. You are also welcome to let me know if you have any questions on the paper.</li>
+  </ul>
+  Your discussion on my publications will help me understand your interest and your background. It also means that you are seriously considering joining my group. I prioritize emails which contain this discussion and may not respond to those without this information.
+</div>
+<br>
 
-**For prospective PhD students:** I look for highly self-motivated PhD students with funding support. If you are interested in working with me, please email me with your CV, transcript, a description of your research interests, future career plan (e.g., academia or industry), and your representative work (e.g., publication, thesis, research project). Please also let me know from which semester (e.g., Spring/Fall 2025) you plan to start the PhD study. Please start your email subject with "[Prospective PhD Student - ${Your_Application_Semester}]". 
+**For prospective PhD students:** I look for highly self-motivated PhD students with funding support. If you are interested in working with me, please email me with your CV, transcript, a description of your research interests, future career plan (e.g., academia or industry), and your representative work (e.g., publication, thesis, research project). **Be sure to include a discussion of my publication(s) as specified above.** Also let me know in which semester (e.g., Spring/Fall 2025) you plan to start the PhD study. Please start your email subject with "[Prospective PhD Student - ${Your_Application_Semester}]". 
 - Update on July 2024: I wrote a blog post about <a href="../why-mason-and-my-group">Why Mason CS and Why Working with Me</a>. Please read the post before reaching out to me.
 - If you have been admitted to GMU and are looking for CS701 advisor, please indicate "[Prospective CS701 Student]" in your email subject.
 
