@@ -1,11 +1,10 @@
 ---
 layout: page
 permalink: /mittc-rai-yao-2024/
-title: English Translate of MIT Technology Review China's Interview of Rai and Yao's ACL 2024 Paper
+title: How does Chain-of-Thought (CoT) stimulate the arithmetic reasoning ability of large models? Scientists provide an answer from the perspective of neuron activation
 nav: false
 ---
 
-<h1>How does Chain-of-Thought (CoT) stimulate the arithmetic reasoning ability of large models? Scientists provide an answer from the perspective of neuron activation.</h1>
 
 _This article is an English translate of MIT Technology Review China's article interviewing Rai and Yao's ACL 2024 paper. The source article can be found at: https://www.mittrchina.com/news/detail/13615. The English translation is assisted with ChatGPT._
 
