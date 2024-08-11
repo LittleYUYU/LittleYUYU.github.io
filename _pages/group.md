@@ -71,8 +71,8 @@ Our research was funded by the following projects. We are grateful for all the s
         {% include figure.html path="assets/img/microsoft.png" title="Microsoft Research" class="img-fluid rounded z-depth-1" caption="Azure credits for Accelerating Foundation Models Research. Role: PI, Sept 2023-Jan 2024." %}
     </div>
     <div class="col-md align-items-center">
-        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311468">Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code.</a> Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}
-        </div>
+        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code. Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}
+    </div>
 </div>
 </div>
 <div class="container">
