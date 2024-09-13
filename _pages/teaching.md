@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
@@ -14,6 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 All class materials can be found from the <a href="https://nlp.cs.gmu.edu/">George Mason NLP Group</a> website.
 
 <ul>
+    <li>2024 Fall: Natural Language Processing (CS 478)</li>
     <li>2024 Spring: Advanced Natural Language Processing (CS 678)</li>
     <li>2023 Fall: Advanced Natural Language Processing (CS 678)</li>
     <li>2023 Spring: Natural Language Processing (CS 478)</li>
