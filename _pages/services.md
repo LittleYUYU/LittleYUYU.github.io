@@ -15,12 +15,13 @@ nav_order: 5
     <li>Area Chair/Senior Program Committee: ACL 2023-present, EMNLP 2022-present, AAAI 2023, 2024</li>
     <li>Session Chair: AAAI 2023</li>
     <li>Program Committee: COLM 2024, ACL Rolling Review (ARR), ACL, EMNLP, NAACL, AAAI, NeurIPS, AACL-IJNLP, NLPCC, CoNLL, Mining Software Repositories (MSR)</li>
-    <li>Program Committee (Workshop): DL4C at ICLR2022, HCI+NLP at NAACL2022, IntEx-SemPar at EMNLP2020, NLI at ACL2020</li>
-    <li>Journal Reviewer: TKDD, TKDE</li>
+    <li>Program Committee (Workshop): TRL at NeurIPS 2024, DL4C at ICLR2022, HCI+NLP at NAACL2022, IntEx-SemPar at EMNLP2020, NLI at ACL2020</li>
+    <li>Journal Reviewer: TKDD, TKDE, TACL, Computational Linguistics</li>
 </ul>
 
 <h3>Outreach</h3>
 <ul>
+    <li>Mentored three undergraduates in <a href="https://cra.org/ur2phd/">CRA's UR2PhD Program</a>, 2024 Summer</li>
     <li>Gave a lecture about LLMs at School of Education at GMU, 2024 Spring</li>
     <li>Gave a lecture about LLMs at Department of Health Administration and Policy at GMU, 2024 Spring</li>
     <li>Spoke about "Generative AI for Secure and Covert Communication" at Morgan State University AI Camp, 2023 Summer</li>

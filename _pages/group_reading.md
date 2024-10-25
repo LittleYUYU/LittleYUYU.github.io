@@ -8,6 +8,9 @@ nav: false
 My group welcomes collaborations and has hosted multiple invited talks in the past! If you are interested in sharing your work with us (virtually or in person), please don't hesitate to get in touch!
 
 ## Invited Talks
+- "Challenges in AI-assisted AI evaluation", Fall'24, <a href="https://ihsgnef.github.io/">Shi Feng (Asst Prof at George Washington Univ.)</a>.
+- "Understanding and Improving Reasoning in Large Language Models", Fall'24, <a href="https://xiangyue9607.github.io/">Xiang Yue (Postdoctoral Fellow at CMU)</a>.
+- "Towards a science of human-AI teams", Fall'24, <a href="https://valeriechen.github.io/">Valerie Chen (PhD student at CMU)</a>.
 - "The Science of Generative AI: Focus on Reasoning", Fall'23, <a href="https://www.cis.upenn.edu/~danroth/">Prof. Dan Roth (AWS AI & UPenn)</a>. Invited through CS Distinguished Lecture Series.
 - "Making LLMs Right", Fall'23, <a href="https://www.cs.utexas.edu/~gdurrett/">Prof. Greg Durrett (UT Austin)</a>. Invited through GMNLP.
 - "Mapping the Terrain of Online Storytelling: Perceptions, Datasets, and Communities", Fall'23, <a href="https://maria-antoniak.github.io/">Maria Antoniak (AI2)</a>. Invited through GMNLP. 
