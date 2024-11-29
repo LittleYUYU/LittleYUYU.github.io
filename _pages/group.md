@@ -31,7 +31,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 <ul>
     <li>Sai Adith Senthil Kumar (2024 Spring --, funded by VA CCI)</li>
     <li>Saipavan Perepa (2024 Spring --, funded by VA CCI)</li>
-    <li>Jessica Nguyen (2024 Spring --)</li>
+    <li>Jessica Nguyen (2024 Spring)</li>
     <li>Wijdane Mifdal (2023 Fall -- 2024 Spring, funded by <a href="https://oscar.gmu.edu/">OSCAR</a>)</li>
     <li>Qineng Wang (2023 Spring -- 2023 Winter, remote intern from ZJU -> PhD@Northwestern)</li>
     <li>Mariana Ritchie (2022 Spring)</li>
@@ -42,14 +42,15 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>High School Students (typically through GMU's <a href="https://science.gmu.edu/assip">ASSIP Program</a>)</h3>
 <ul>
-    <li>Sarah Li (2024 Summer ASSIP, McLean High School)</li>
-    <li>Angela Xiang (2024 SummerASSIP, Montgomery Blair High School)</li>
+    <li>Sarah Li (2024 Summer ASSIP, McLean High School; <a href="https://journals.gmu.edu/jssr/article/view/4358">abstract: GenAI Agents on Web Tasks</a>)</li>
+    <li>Angela Xiang (2024 SummerASSIP, Montgomery Blair High School; <a href="https://journals.gmu.edu/jssr/article/view/4356">abstract: GenAI Agents in OSWorld</a>)</li>
     <li>Mihir Kulshreshtha (2023 Summer ASSIP, Thomas Jefferson High School for Science and Technology; <a href="https://journals.gmu.edu/index.php/jssr/article/view/3942">published abstract</a> --> BS@Cornell)</li>
     <li>Anika Giri (2023 Summer Intern, Chantilly High School)</li>
 </ul>
 
 <h3>Group Photos</h3>
 <div class="container">
+{% include figure.html path="assets/img/thanksgiving2024.jpeg" title="Thanksgiving2024" class="img-fluid rounded z-depth-1" caption="Thanksgiving 2024 potluck in Dr. Yao's house." %}
 {% include figure.html path="assets/img/group_shenandoah_2024.jpeg" title="Shenandoah 2024" class="img-fluid rounded z-depth-1" caption="Group activity at Shenandoah in Spring'24. L2R: Surendra, Murong, Hao, Saurabh, Mohamed, Ziyu, Dingkang, Daking, and Min." %}
 {% include figure.html path="assets/img/elias_visit.JPG" title="elias_visit" class="img-fluid rounded z-depth-1" caption="Elias's visit in Spring'23. L2R: Murong, Saurabh, Hao, Daking, Ziyu, Mohamed, Elias, and Long." %}
 {% include figure.html path="assets/img/naacl22.JPG" title="naacl22" class="img-fluid rounded z-depth-1" caption="GMU NLP at NAACL'22, Seattle, WA. L2R: Roy, Saurabh, Ziyu, Antonis, Daking, and Fahim." %}
@@ -60,9 +61,12 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 Our research was funded by the following projects. We are grateful for all the support!
 
 <div class="container">
-<div class="row">
+<div class="row">   
     <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: Fostering Mathematical Modeling Competencies through Collaborative Learning in a Large Language Model (LLM) Simulated Virtual Classroom. Role: PI, 2024-2027. w/ Jennifer Suh (co-PI@GMU) and Janice Zhang (William&Mary)" %}
+    </div>
+    <div class="col-sm align-items-center">
+            {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="PatriBot Project from GMUF/GMUIF. Role: Co-PI, 05/2024-05/2025. w/ Sarah Campbell, Amarda Shehu, and Marcos Zampieri (GMU)" %}
     </div>
     <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing the Supply Chain of Large Language Models as Software. Role: PI, 01/2024-12/2024. w/ Xiaokuan Zhang (GMU)" %}
