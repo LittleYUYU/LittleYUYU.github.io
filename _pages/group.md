@@ -88,9 +88,6 @@ Our research was funded by the following projects. We are grateful for all the s
         <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing Interactions between Humans and Machines. Role: PI, 2022-2023. w/ Tyler H. Shaw (GMU)" %}
         </div>
-        <!-- <div class="col-md align-items-center">
-        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="NSF Convergence Accelerator Track G: Secure Texting over Non-cooperative Networks and Anti-jamming Enhancement in 5G. Role: Senior Personnel, 2022-2023. Led by Kai Zeng (PI@GMU)" %}
-        </div> -->
         <div class="col-sm align-items-center">
             {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="AI Engineering Seedlings. Role: Co-PI, 2021-2022. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
         </div>
