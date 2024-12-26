@@ -65,19 +65,20 @@ Our research was funded by the following projects. We are grateful for all the s
     <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: Fostering Mathematical Modeling Competencies through Collaborative Learning in a Large Language Model (LLM) Simulated Virtual Classroom. Role: PI, 2024-2027. w/ Jennifer Suh (co-PI@GMU) and Janice Zhang (William&Mary)" %}
     </div>
-    <div class="col-sm align-items-center">
-            {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="PatriBot Project from GMUF/GMUIF. Role: Co-PI, 05/2024-05/2025. w/ Sarah Campbell, Amarda Shehu, and Marcos Zampieri (GMU)" %}
-    </div>
-    <div class="col-sm align-items-center">
-        {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing the Supply Chain of Large Language Models as Software. Role: PI, 01/2024-12/2024. w/ Xiaokuan Zhang (GMU)" %}
-    </div>
-    <div class="col-sm align-items-center">
-        {% include figure.html path="assets/img/microsoft.png" title="Microsoft Research" class="img-fluid rounded z-depth-1" caption="Azure credits for Accelerating Foundation Models Research. Role: PI, Sept 2023-Jan 2024." %}
-    </div>
     <div class="col-md align-items-center">
         {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code. Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}
     </div>
+    <div class="col-sm align-items-center">
+        {% include figure.html path="assets/img/microsoft.png" title="Microsoft Research" class="img-fluid rounded z-depth-1" caption="Azure credits for Accelerating Foundation Models Research. Role: PI, Sept 2023-April 2025." %}
+    </div>
 </div>
+<div class="row">  
+    <div class="col-sm align-items-center">
+        {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing the Supply Chain of Large Language Models as Software. Role: PI, 01/2024-06/2025. w/ Xiaokuan Zhang (GMU)" %}
+    </div>
+    <div class="col-sm align-items-center">
+            {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="PatriBot Project from GMUF/GMUIF. Role: Co-PI, 05/2024-05/2025. w/ Sarah Campbell, Amarda Shehu, and Marcos Zampieri (GMU)" %}
+    </div>
 </div>
 <div class="container">
     <div class="row">
@@ -87,9 +88,9 @@ Our research was funded by the following projects. We are grateful for all the s
         <div class="col-sm align-items-center">
         {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing Interactions between Humans and Machines. Role: PI, 2022-2023. w/ Tyler H. Shaw (GMU)" %}
         </div>
-        <div class="col-md align-items-center">
+        <!-- <div class="col-md align-items-center">
         {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="NSF Convergence Accelerator Track G: Secure Texting over Non-cooperative Networks and Anti-jamming Enhancement in 5G. Role: Senior Personnel, 2022-2023. Led by Kai Zeng (PI@GMU)" %}
-        </div>
+        </div> -->
         <div class="col-sm align-items-center">
             {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="AI Engineering Seedlings. Role: Co-PI, 2021-2022. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
         </div>
