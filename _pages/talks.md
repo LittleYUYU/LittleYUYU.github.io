@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <ul>
-    <li>TBD. <a href="https://talks.cam.ac.uk/show/archive/60438">University of Cambridge, Language Technology Lab Seminars</a>. 2024.</li>
+    <li>Mechanistic Understanding of LLMs in Reasoning and Code Generation. <a href="https://talks.cam.ac.uk/show/archive/60438">University of Cambridge, Language Technology Lab Seminars</a>. 2024.</li>
     <li>MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education. <a href="https://www.wolframcloud.com/obj/jmcnally0/Published/June14Colloquium-Schedule.nb">Wolfram Research, Online Colloquium for LLM Agents for Modeling Group Dynamics</a>. 2024</li>
     <li>The Progress, Opportunities, and Challenges of Semantic Parsing. <a href="https://twitter.com/TechAtBloomberg/status/1793650599646421173">Bloomberg</a>. 2024</li>
     <li>Towards Understanding and Modeling the Interaction with Large Language Models. New York University. 2024</li>
