@@ -7,6 +7,11 @@ nav: false
 
 My group welcomes collaborations and has hosted multiple invited talks in the past! If you are interested in sharing your work with us (virtually or in person), please don't hesitate to get in touch!
 
+## Regular Weekly Group Meeting
+Spring 2025: ENGR 4801, every Tue 10am-noon
+
+Check out the schedule <a href="https://gmuedu.sharepoint.com/:x:/s/Yao-NLP-Group-GRP/ERGhv9GOTYFBjj_WrWwsfd8B0FoAmS65PpuqX59QqKGevA?e=Kc31hN&nav=MTVfezk5MEYzQkRFLTk2RTctNDQ4OC1BQkE0LTQ0RTlGMDcxNDZDOH0">here</a> (welcome to sign up for presentation; GMU email needed)!
+
 ## Invited Talks
 - "Challenges in AI-assisted AI evaluation", Fall'24, <a href="https://ihsgnef.github.io/">Shi Feng (Asst Prof at George Washington Univ.)</a>.
 - "Understanding and Improving Reasoning in Large Language Models", Fall'24, <a href="https://xiangyue9607.github.io/">Xiang Yue (Postdoctoral Fellow at CMU)</a>.
