@@ -31,7 +31,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 <ul>
     <li>Sai Adith Senthil Kumar (2024 Spring --, funded by VA CCI)</li>
     <li>Saipavan Perepa (2024 Spring --, funded by VA CCI)</li>
-    <li>Jessica Nguyen (2024 Spring)</li>
+    <!-- <li>Jessica Nguyen (2024 Spring)</li> -->
     <li>Wijdane Mifdal (2023 Fall -- 2024 Spring, funded by <a href="https://oscar.gmu.edu/">OSCAR</a>)</li>
     <li>Qineng Wang (2023 Spring -- 2023 Winter, remote intern from ZJU -> PhD@Northwestern)</li>
     <li>Mariana Ritchie (2022 Spring)</li>
