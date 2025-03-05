@@ -12,11 +12,11 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>PhD Students</h3>
 <ul>
-    <li><a href="https://hyan5.github.io/">Hao Yan</a> (2022 Spring-; <a href="https://arxiv.org/pdf/2305.08195.pdf">ACL'23</a>)</li>
-    <li><a href="https://dakingrai.github.io/">Daking Rai</a> (2022 Spring-; <a href="https://arxiv.org/pdf/2406.12288">ACL'24</a>; <a href="https://arxiv.org/pdf/2305.17378.pdf">ACL'23</a>, <a href="https://arxiv.org/pdf/2301.13820.pdf">AAAI-SA'23</a>)</li>
-    <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring-; <a href="https://arxiv.org/pdf/2310.02107.pdf">ACL'24</a>; <a href="https://arxiv.org/pdf/2305.13469.pdf">EMNLP'23</a>, <a href="https://arxiv.org/pdf/2305.08195.pdf">ACL'23</a>)</li>
-    <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall-; <a href="https://arxiv.org/pdf/2310.03094.pdf">ICLR'24</a>, <a href="https://arxiv.org/pdf/2308.04030.pdf">EMNLP-demo'23</a>)</li>
-    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring-; <a href="https://arxiv.org/pdf/2406.12000">IEEE CASE'24</a>; <a href="https://arxiv.org/pdf/2310.03249.pdf">ICLR-W'24</a>)</li>
+    <li><a href="https://hyan5.github.io/">Hao Yan</a> (2022 Spring--)</li>
+    <li><a href="https://dakingrai.github.io/">Daking Rai</a> (2022 Spring--)</li>
+    <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring--)</li>
+    <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall--)</li>
+    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring--)</li>
 </ul>
 
 <h3>Master Students</h3>
