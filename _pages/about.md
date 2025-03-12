@@ -31,8 +31,7 @@ My interested topics include:
 
   <li><b>Responsible and trustworthy natural language interfaces</b>, where we study how language interfaces can be made more trustable and responsible in their interaction with humans. This includes topics of: 
 
-  (1) <b>Model interpretability</b>: Check out our <a href="https://arxiv.org/pdf/2407.02646">task-centric survey on Mechanistic Interpretability</a>, <a href="https://arxiv.org/pdf/2406.12288">interpretation of CoT via neuron activation in LLMs</a>, and <a href="https://arxiv.org/pdf/2502.18499">mechanistic interpretaion of LLMs in syntactic code completion</a>.
-  <!-- Check out our work about <a href="./">interpreting CoT of LLMs via neuron activation</a> and explaining LLMs in code generation via <a href="https://arxiv.org/pdf/2301.13820.pdf">post-hoc feature attribution</a> and <a href="https://arxiv.org/pdf/2305.17378.pdf">understanding their tokenization effect</a>; -->
+  (1) <b>Model interpretability</b>: Check out our <a href="https://arxiv.org/pdf/2407.02646">task-centric survey on Mechanistic Interpretability</a>, <a href="https://arxiv.org/pdf/2406.12288">interpretation of CoT via neuron activation in LLMs</a>, and <a href="https://arxiv.org/pdf/2502.18499">mechanistic interpretaion of LLMs in syntactic code completion</a>;
   
   (2) <b>Human-AI interactive framework</b>, represented by our multi-year effort in "interactive semantic parsing/code generation" -- <a href="https://hyan5.github.io/IntelliExplain/">Preprint'24</a>, <a href="https://arxiv.org/pdf/2305.08195.pdf">ACL'23</a>, <a href="https://openreview.net/pdf?id=v9hAX77--cZ">ICLR'21</a>, <a href="https://arxiv.org/pdf/2005.00689.pdf">EMNLP'20</a>, <a href="https://arxiv.org/pdf/1910.05389.pdf">EMNLP'19</a>, <a href="https://arxiv.org/pdf/1808.06740.pdf">AAAI'19</a>;
   
