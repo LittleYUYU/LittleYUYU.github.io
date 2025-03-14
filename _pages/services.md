@@ -7,12 +7,17 @@ nav: true
 nav_order: 5
 ---
 
-<h3>Academic Services</h3>
+<h3>Professional Attendance</h3>
+<ul>
+    <li>NSF Workshop on the Science of Safe AI, UPenn, 2025 <i>(Invitation Only)</i></li>
+    <li>CMU SEI & NSF Workshop on U.S. Leadership in Software Engineering & AI Engineering: Critical Needs & Priorities, Alexandria, VA, 2023</li>
+</ul>
 
+<h3>Academic Services</h3>
 <ul>	
     <li>Editor: <a href="https://sigai.acm.org/main/">ACM SIGAI</a> Newsletter co-editor</li>
     <li>Organizing Committee: <a href="https://2024.naacl.org/">NAACL 2024</a>, <a href="https://www.mascsll.org/">Mid-Atlantic Student Colloquium for Speech, Language, and Learning (MASC-SLL) 2023</a>, <a href="https://suki-workshop.github.io/">SUKI at NAACL2022</a>, <a href="https://nlp4prog.github.io/2021/">NLP4Prog at ACL2021</a></li>	
-    <li>Area Chair/Senior Program Committee: ACL 2023-present, EMNLP 2022-present, AAAI 2023, 2024</li>
+    <li>Area Chair/Senior Program Committee: ACL Rolling Review (ARR), ACL 2023, EMNLP 2022, AAAI 2023, 2024</li>
     <li>Session Chair: AAAI 2023</li>
     <li>Program Committee: COLM 2024, ACL Rolling Review (ARR), ACL, EMNLP, NAACL, AAAI, NeurIPS, AACL-IJNLP, NLPCC, CoNLL, Mining Software Repositories (MSR)</li>
     <li>Program Committee (Workshop): TRL at NeurIPS 2024, DL4C at ICLR2022, HCI+NLP at NAACL2022, IntEx-SemPar at EMNLP2020, NLI at ACL2020</li>
