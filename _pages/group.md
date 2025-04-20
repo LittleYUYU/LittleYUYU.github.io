@@ -6,6 +6,8 @@ nav: true
 nav_order: 1
 ---
 
+<b>Check out our group's <a href="https://github.com/Ziyu-Yao-NLP-Lab">GitHub profile</a> for datasets, code, and other resources!</b>
+
 My group welcomes self-motivated students interested in research. Please check out the <a href="../prospective_students">Prospective Students</a> page.
 
 My group welcomes collaborations! We have hosted <a href="../group_reading">multiple invited talks in the past</a>. If you are interested in presenting your research in my group, please don't hesitate to reach out!
