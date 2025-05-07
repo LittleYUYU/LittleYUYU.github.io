@@ -7,8 +7,18 @@ nav: true
 nav_order: 6
 ---
 
+Awards to my students:
 <ul>
+    <li>KEEN Award ($1k Prize) at the CEC Undergraduate Research Celebration, GMU, 2025 (to Sai Adith Senthil Kumar)</li>
+    <li>Outstanding GTA Award, GMU CS, 2025 (to Saurabh Srivastava)</li>
+    <li>Selected Presentation at SIAM SDM Doctoral Forum, 2025 (to Saurabh Srivastava)</li>
     <li>Outstanding PhD Student Award, GMU CS, 2024 (to Murong Yue)</li>
+    <li>Outstanding GTA Award, GMU CS, 2022 (to Hao Yan)</li>
+</ul>
+
+
+Awards to me:
+<ul>
     <li>Recognition for Service on Hangs-On Generative AI Tutorial, GMU CEC, 2024</li>
     <li>Top Reviewer, NeurIPS, 2023.</li>
     <li><a href="https://www.microsoft.com/en-us/research/project/afmr-cognition-and-societal-benefits/">Accelerating Foundation Models Research Program</a>, Microsoft Research, 2023</li>
