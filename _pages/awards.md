@@ -7,17 +7,18 @@ nav: true
 nav_order: 6
 ---
 
-Awards to my students:
+:trophy: Awards to my students:
 <ul>
-    <li>KEEN Award ($1k Prize) at the CEC Undergraduate Research Celebration, GMU, 2025 (to Sai Adith Senthil Kumar)</li>
+    <li>KEEN Award ($1k Prize) at the CEC Undergraduate Research Celebration, GMU, 2025 (to Sai Adith Senthil Kumar, presenting <a href="https://arxiv.org/pdf/2504.06460">Counterfactual Persona Simulation</a>)</li>
     <li>Outstanding GTA Award, GMU CS, 2025 (to Saurabh Srivastava)</li>
     <li>Selected Presentation at SIAM SDM Doctoral Forum, 2025 (to Saurabh Srivastava)</li>
+    <li><a href="https://www.fcps.edu/2025-science-fair-category-awards">Third Place</a> and the <a href="https://www.fcps.edu/2025-science-fair-special-awards">AFCEA Special Award</a> at the Fairfax County Science Fair, 2025 (to Sarah Li, presenting the <a href="https://journals.gmu.edu/jssr/article/view/4358">ASSIP Web Agent Project</a>)</li>
     <li>Outstanding PhD Student Award, GMU CS, 2024 (to Murong Yue)</li>
     <li>Outstanding GTA Award, GMU CS, 2022 (to Hao Yan)</li>
 </ul>
 
 
-Awards to me:
+:trophy: Awards to me:
 <ul>
     <li>Recognition for Service on Hangs-On Generative AI Tutorial, GMU CEC, 2024</li>
     <li>Top Reviewer, NeurIPS, 2023.</li>
