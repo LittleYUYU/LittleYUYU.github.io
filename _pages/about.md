@@ -43,6 +43,8 @@ My interested topics include:
 
 </ul>
 
+:star2: We are organizing a <a href="https://xllm-reasoning-planning-workshop.github.io/">The First Workshop on the Application of LLM Explainability to Reasoning and Planning</a> at <a href="https://colmweb.org/">COLM 2025</a>! Submit your excellent work to our worshop!
+
 :star2: We will be giving a <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/">Tutorial on Mechanistic Interpretability for Language Models</a> at <a href="https://icml.cc/">ICML 2025</a>! Stay tuned for our schedule and materials.
 
 :star2: Excited to release Version 2 of our <a href="https://arxiv.org/pdf/2407.02646">task-centric survey on Mechanistic Interpretability</a>, in collaboration with Salesforce Research, Purdue University, and George Washington University. Also check out our <a href="https://arxiv.org/pdf/2503.05613">survey on Sparse Autoencoder (SAE)</a> in collaboration with NJIT and University of Georgia.
