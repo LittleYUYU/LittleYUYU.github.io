@@ -53,6 +53,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>Group Photos</h3>
 <div class="container">
+{% include figure.html path="assets/img/assets/img/camp2025.jpeg" title="SummerCamp2025" class="img-fluid rounded z-depth-1" caption="Dr. Yao in Math EdVenture Summer Camp 2025." %}
 {% include figure.html path="assets/img/thanksgiving2024.jpeg" title="Thanksgiving2024" class="img-fluid rounded z-depth-1" caption="Thanksgiving 2024 potluck in Dr. Yao's house." %}
 {% include figure.html path="assets/img/group_shenandoah_2024.jpeg" title="Shenandoah 2024" class="img-fluid rounded z-depth-1" caption="Group activity at Shenandoah in Spring'24. L2R: Surendra, Murong, Hao, Saurabh, Mohamed, Ziyu, Dingkang, Daking, and Min." %}
 {% include figure.html path="assets/img/elias_visit.JPG" title="elias_visit" class="img-fluid rounded z-depth-1" caption="Elias's visit in Spring'23. L2R: Murong, Saurabh, Hao, Daking, Ziyu, Mohamed, Elias, and Long." %}
@@ -66,7 +67,7 @@ Our research was funded by the following projects. We are grateful for all the s
 <div class="container">
 <div class="row">   
     <div class="col-sm align-items-center">
-        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: Fostering Mathematical Modeling Competencies through Collaborative Learning in a Large Language Model (LLM) Simulated Virtual Classroom. Role: PI, 2024-2027. w/ Jennifer Suh (co-PI@GMU) and Janice Zhang (William&Mary)" %}
+        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: Fostering Mathematical Modeling Competencies through Collaborative Learning in a Large Language Model (LLM) Simulated Virtual Classroom. Role: PI, 2024-2027. w/ Jennifer Suh (co-PI@GMU) and Janice Zhang (William&Mary) <a href="https://ziyu-yao-nlp-lab.github.io/MathVC-NSF.github.io/">Project Site</a>" %}
     </div>
     <div class="col-md align-items-center">
         {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code. Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}

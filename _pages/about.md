@@ -43,6 +43,8 @@ My interested topics include:
 
 </ul>
 
+:star2: During July 7-11, 2025, we (w/ <a href="https://drjennifersuh.onmason.com/">Dr. Jennifer Suh</a>) organized the first Math EdVenture Summer Camp at GMU, the Fairfax campus, as our commitment to the <a href="https://ziyu-yao-nlp-lab.github.io/MathVC-NSF.github.io/">NSF RITEL project</a>. Check out our activities <a href="https://sites.google.com/view/mathedventure/home">here</a>!
+
 :star2: We are organizing a <a href="https://xllm-reasoning-planning-workshop.github.io/">The First Workshop on the Application of LLM Explainability to Reasoning and Planning</a> at <a href="https://colmweb.org/">COLM 2025</a>! Submit your excellent work to our worshop!
 
 :star2: We will be giving a <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/">Tutorial on Mechanistic Interpretability for Language Models</a> at <a href="https://icml.cc/">ICML 2025</a>! Stay tuned for our schedule and materials.
