@@ -35,10 +35,10 @@
 
   </picture>
 
+  {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
+
   {%- if include.url -%}
   </a>
   {%- endif -%}
-
-  {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
-
+  
 </figure>
