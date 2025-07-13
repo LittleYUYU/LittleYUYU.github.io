@@ -67,7 +67,7 @@ Our research was funded by the following projects. We are grateful for all the s
 <div class="container">
 <div class="row">   
     <div class="col-sm align-items-center">
-        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: Fostering Mathematical Modeling Competencies through Collaborative Learning in a Large Language Model (LLM) Simulated Virtual Classroom. Role: PI, 2024-2027. w/ Jennifer Suh (co-PI@GMU) and Janice Zhang (William&Mary) <a href="https://ziyu-yao-nlp-lab.github.io/MathVC-NSF.github.io/">Project Site</a>" %}
+        {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: Fostering Mathematical Modeling Competencies through Collaborative Learning in a Large Language Model (LLM) Simulated Virtual Classroom. Role: PI, 2024-2027. w/ Jennifer Suh (co-PI@GMU) and Janice Zhang (William&Mary)" url="https://ziyu-yao-nlp-lab.github.io/MathVC-NSF.github.io/" %}
     </div>
     <div class="col-md align-items-center">
         {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code. Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}
