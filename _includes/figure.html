@@ -2,6 +2,10 @@
 
 <figure>
 
+  {%- if include.url -%}
+  <a href="{{ include.url }}" target="_blank" rel="noopener">
+  {%- endif -%}
+
   <picture>
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
@@ -30,6 +34,10 @@
     />
 
   </picture>
+
+  {%- if include.url -%}
+  </a>
+  {%- endif -%}
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
 
