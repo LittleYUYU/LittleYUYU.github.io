@@ -51,9 +51,9 @@ My interested topics include:
 
 :star2: Excited to release Version 2 of our <a href="https://arxiv.org/pdf/2407.02646">task-centric survey on Mechanistic Interpretability</a>, in collaboration with Salesforce Research, Purdue University, and George Washington University. Also check out our <a href="https://arxiv.org/pdf/2503.05613">survey on Sparse Autoencoder (SAE)</a> in collaboration with NJIT and University of Georgia.
 
-<!-- <div style="border: 3px solid #006633; padding: 10px; background-color: #FFCC33">
-  **:loudspeaker: I will recruit 1-3 PhD students for the Fall'25 cycle. I wrote a blog "Why you should apply for Mason CS and work with me" <a href="./why-mason-and-my-group">here</a>. If you are interested, please contact me following the instructions on <a href="./prospective_students">this page</a>.**
-</div> -->
+<div style="border: 3px solid #006633; padding: 10px; background-color: #FFCC33">
+  **:loudspeaker: I will recruit 1-3 PhD students for the Fall'26 cycle. I wrote a blog "Why you should apply for Mason CS and work with me" <a href="./why-mason-and-my-group">here</a>. If you are interested, please contact me following the instructions on <a href="./prospective_students">this page</a>.**
+</div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

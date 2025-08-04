@@ -11,7 +11,7 @@ I am always looking for highly self-motivated students for NLP/AI research. Due 
   For *all* interested students, please make sure to read some of my publications before contacting me. In your email,
   <ul>
     <li>Please enumerate 1-2 of my publications which you have the most interest;</li>
-    <li>For each publication, briefly describe what you read and what you see as the strengths and weaknesses of the paper. You are also welcome to let me know if you have any questions on the paper.</li>
+    <li>For each publication, describe what you read and what you see as the strengths and weaknesses of the paper. You are also welcome to let me know if you have any questions about the paper.</li>
   </ul>
   Your discussion on my publications will help me understand your interest and your background. It also means that you are seriously considering joining my group. I prioritize emails which contain this discussion and may not respond to those without this information.
 </div>
