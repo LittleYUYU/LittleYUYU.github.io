@@ -17,7 +17,7 @@ I am always looking for highly self-motivated students for NLP/AI research. Due 
 </div>
 <br>
 
-**For prospective PhD students:** I look for highly self-motivated PhD students with funding support. If you are interested in working with me, please email me with your CV, transcript, a description of your research interests, future career plan (e.g., academia or industry), and your representative work (e.g., publication, thesis, research project). **Be sure to include a discussion of my publication(s) as specified above.** Also let me know in which semester (e.g., Spring/Fall 2025) you plan to start the PhD study. Please start your email subject with "[Prospective PhD Student - ${Your_Application_Semester}]". 
+**For prospective PhD students:** I look for highly self-motivated PhD students with funding support. If you are interested in working with me, please email me with your CV, research statement, transcript, future career plan (e.g., academia or industry), and your representative work (e.g., publication, thesis, research project). **Be sure to include a discussion of my publication(s) as specified above.** I only recruit students starting from the Fall semester. Please start your email subject with "[Prospective PhD Student - Fall 2026]". 
 - Update on July 2024: I wrote a blog post about <a href="../why-mason-and-my-group">Why Mason CS and Why Working with Me</a>. Please read the post before reaching out to me.
 - If you have been admitted to GMU and are looking for CS701 advisor, please indicate "[Prospective CS701 Student]" in your email subject.
 
