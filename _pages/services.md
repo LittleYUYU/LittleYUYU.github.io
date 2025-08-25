@@ -16,10 +16,11 @@ nav_order: 5
 <h3>Academic Services</h3>
 <ul>	
     <li>Editor: <a href="https://sigai.acm.org/main/">ACM SIGAI</a> Newsletter co-editor</li>
-    <li>Organizing Committee: <a href="https://2024.naacl.org/">NAACL 2024</a>, <a href="https://www.mascsll.org/">Mid-Atlantic Student Colloquium for Speech, Language, and Learning (MASC-SLL) 2023</a>, <a href="https://suki-workshop.github.io/">SUKI at NAACL2022</a>, <a href="https://nlp4prog.github.io/2021/">NLP4Prog at ACL2021</a></li>	
-    <li>Area Chair/Senior Program Committee: ACL Rolling Review (ARR), ACL 2023, EMNLP 2022, AAAI 2023, 2024</li>
+    <li>Organizing Committee: <a href="https://xllm-reasoning-planning-workshop.github.io/">LLM Explainability Workshop at COLM 2025</a>,
+    <a href="https://2024.naacl.org/">NAACL 2024 (as Diversity&Inclusion Co-Chair)</a>, <a href="https://www.mascsll.org/">Mid-Atlantic Student Colloquium for Speech, Language, and Learning (MASC-SLL) 2023</a>, <a href="https://suki-workshop.github.io/">SUKI at NAACL2022</a>, <a href="https://nlp4prog.github.io/2021/">NLP4Prog at ACL2021</a></li>	
+    <li>Area Chair/Senior Program Committee: ACL Rolling Review (ARR), ICLR 2026, ACL 2023, EMNLP 2022, AAAI 2023, 2024</li>
     <li>Session Chair: AAAI 2023</li>
-    <li>Program Committee: COLM 2024, ACL Rolling Review (ARR), ACL, EMNLP, NAACL, AAAI, NeurIPS, AACL-IJNLP, NLPCC, CoNLL, Mining Software Repositories (MSR)</li>
+    <li>Program Committee: ACL Rolling Review (ARR), ACL, EMNLP, NAACL, NeurIPS, ICLR, COLM, AAAI, AACL-IJNLP, NLPCC, CoNLL, Mining Software Repositories (MSR)</li>
     <li>Program Committee (Workshop): TRL at NeurIPS 2024, DL4C at ICLR2022, HCI+NLP at NAACL2022, IntEx-SemPar at EMNLP2020, NLI at ACL2020</li>
     <li>Journal Reviewer: TKDD, TKDE, TACL, Computational Linguistics</li>
 </ul>
