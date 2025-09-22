@@ -18,7 +18,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
     <li><a href="https://dakingrai.github.io/">Daking Rai</a> (2022 Spring--)</li>
     <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring--)</li>
     <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall--)</li>
-    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring--, w/ <a hef="https://gjstein.com/">Greg Stein</a> and <a href="https://erionplaku.github.io/">Erion Plaku</a>)</li>
+    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring--, w/ <a href="https://gjstein.com/">Greg Stein</a> and <a href="https://erionplaku.github.io/">Erion Plaku</a>)</li>
 </ul>
 
 <h3>Master Students</h3>
