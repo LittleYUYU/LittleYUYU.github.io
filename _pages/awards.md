@@ -21,6 +21,7 @@ nav_order: 6
 
 :trophy: Awards to me:
 <ul>
+    <li>Best Paper Honorable Mention (to <a href="https://arxiv.org/pdf/2507.00322">Failure by Interference</a>), The First Workshop on the Application of LLM Explainability to Reasoning and Planning, COLM 2025.</li>
     <li>Recognition for Service on Hangs-On Generative AI Tutorial, GMU CEC, 2024</li>
     <li>Top Reviewer, NeurIPS, 2023.</li>
     <li><a href="https://www.microsoft.com/en-us/research/project/afmr-cognition-and-societal-benefits/">Accelerating Foundation Models Research Program</a>, Microsoft Research, 2023</li>

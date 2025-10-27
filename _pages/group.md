@@ -33,10 +33,9 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 <h3>Undergraduate Students</h3>
 <ul>
     <li>Siddarth Mamidanna (2025 Spring --)</li>
-    <li>Jiwon Chung (2025 Spring --)</li>
-    <li>Sai Adith Senthil Kumar (2024 Spring -- 2025 Spring, funded by VA CCI)</li>
+    <li>Sai Adith Senthil Kumar (2024 Spring -- , funded by VA CCI)</li>
+    <li>Jiwon Chung (2025 Spring)</li>
     <li>Saipavan Perepa (2024 Spring -- 2025 Spring, funded by VA CCI)</li>
-    <!-- <li>Jessica Nguyen (2024 Spring)</li> -->
     <li>Wijdane Mifdal (2023 Fall -- 2024 Spring, funded by <a href="https://oscar.gmu.edu/">OSCAR</a>)</li>
     <li>Qineng Wang (2023 Spring -- 2023 Winter, remote intern from ZJU -> PhD@Northwestern)</li>
     <li>Mariana Ritchie (2022 Spring)</li>
@@ -47,7 +46,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>High School Students (typically through GMU's <a href="https://science.gmu.edu/assip">ASSIP Program</a>)</h3>
 <ul>
-    <li>Sarah Li (2024&2025 Summer ASSIP, McLean High School; <a href="https://journals.gmu.edu/jssr/article/view/4358">abstract: GenAI Agents on Web Tasks</a>; :trophy: at <a href="https://www.fcps.edu/2025-science-fair-category-awards">Fairfax 2025 Science Fair</a>)</li>
+    <li>Sarah Li (2024&2025 Summer ASSIP, McLean High School; <a href="https://journals.gmu.edu/jssr/article/view/4358">abstract: GenAI Agents on Web Tasks</a>; :trophy: at <a href="https://www.fcps.edu/2025-science-fair-category-awards">Fairfax 2025 Science Fair</a>; Paper at IEEE ICDM 2025 Undergraduate and High School Symposium)</li>
     <li>Angela Xiang (2024 SummerASSIP, Montgomery Blair High School; <a href="https://journals.gmu.edu/jssr/article/view/4356">abstract: GenAI Agents in OSWorld</a>)</li>
     <li>Mihir Kulshreshtha (2023 Summer ASSIP, Thomas Jefferson High School for Science and Technology; <a href="https://journals.gmu.edu/index.php/jssr/article/view/3942">published abstract</a> --> BS@Cornell)</li>
     <li>Anika Giri (2023 Summer Intern, Chantilly High School)</li>
