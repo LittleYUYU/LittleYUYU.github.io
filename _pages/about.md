@@ -48,17 +48,17 @@ With my students, we work on:
 
 :star2: During July 7-11, 2025, we (w/ <a href="https://drjennifersuh.onmason.com/">Dr. Jennifer Suh</a>) organized the first Math EdVenture Summer Camp at GMU, the Fairfax campus, as our commitment to the <a href="https://ziyu-yao-nlp-lab.github.io/MathVC-NSF.github.io/">NSF RITEL project</a>. We hosted a total of 40 middle-school kids across multiple school districts in Northern Virginia. Check out our activities <a href="https://sites.google.com/view/mathedventure/home">here</a>!
 
-:star2: We are organizing a <a href="https://xllm-reasoning-planning-workshop.github.io/">The First Workshop on the Application of LLM Explainability to Reasoning and Planning</a> at <a href="https://colmweb.org/">COLM 2025</a>! Submit your excellent work to our worshop!
+:star2: We organized <a href="https://xllm-reasoning-planning-workshop.github.io/">The First Workshop on the Application of LLM Explainability to Reasoning and Planning</a> at <a href="https://colmweb.org/">COLM 2025</a>! Submit your excellent work to our worshop!
 
 :star2: We gave a <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/">Tutorial on Mechanistic Interpretability for Language Models</a> at <a href="https://icml.cc/">ICML 2025</a>! Our slides are now available.
 
 :star2: Excited to release Version 2 of our <a href="https://arxiv.org/pdf/2407.02646">task-centric survey on Mechanistic Interpretability</a>, in collaboration with Salesforce Research, Purdue University, and George Washington University. Also check out our <a href="https://arxiv.org/pdf/2503.05613">survey on Sparse Autoencoder (SAE)</a> in collaboration with NJIT and University of Georgia.
 
-<div style="border: 3px solid #006633; padding: 10px; background-color: #f1f1f16c">
+<!-- <div style="border: 3px solid #006633; padding: 10px; background-color: #f1f1f16c">
   **:loudspeaker: I plan to recruit 2-3 PhD students for the Fall'26 cycle. In this cycle, the recruiting focus is "Actionable Interpretability of LLMs". Students with backgrounds in Interpertability and LLM reasoning/planning are welcome. If you are interested, please email me with your <b>resume, research statement, transcript, future career plan (e.g., academia or industry), representative work, and your reviews on my recent publications</b>, following the instructions on <a href="./prospective_students">this page</a>!**
   <br>
   **Why George Mason CS?** We rank at <a href="https://csrankings.org/#/index?all&us">No. 35 on CSRanking</a>. We are in one of the BEST locations for studying and living in the US, only 30min driving to Washington DC. I wrote a blog "Why you should apply for Mason CS and work with me" <a href="./why-mason-and-my-group">here</a>. 
-</div>
+</div> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
