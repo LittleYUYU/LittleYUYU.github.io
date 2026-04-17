@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper on web agents is accepted to ACL'26!
+:tada: Our paper on web agents is accepted to ACL'26 **Oral**!
