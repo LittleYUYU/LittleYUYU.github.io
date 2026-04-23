@@ -23,6 +23,7 @@ nav_order: 6
 
 :trophy: Awards to me:
 <ul>
+    <li>Amazon Research Award, 2026.</li>
     <li>CVPR Paper Highlight (awarded to top 3% accepted papers, to <a href="">ViT OOD through inner workings</a>), CVPR 2026.</li>
     <li>Best Paper Honorable Mention (to <a href="https://arxiv.org/pdf/2507.00322">Failure by Interference</a>), The First Workshop on the Application of LLM Explainability to Reasoning and Planning, COLM 2025.</li>
     <li>Recognition for Service on Hangs-On Generative AI Tutorial, GMU CEC, 2024</li>
