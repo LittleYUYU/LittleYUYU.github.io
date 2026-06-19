@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper on web agents is accepted to ACL'26 **Oral**!
+:tada: 1 main paper (Web Agents) and 1 workshop paper (PeerMathDial dataset) are accepted to ACL'26!

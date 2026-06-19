@@ -55,6 +55,15 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>Group Photos</h3>
 <div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-6 align-items-center">
+        {% include figure.html path="assets/img/Spring26-semester-grad-celebrate1.jpg" title="Spring26 celebration" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6 align-items-center">
+        {% include figure.html path="assets/img/Spring26-semester-grad-celebrate2.jpg" title="Spring26 celebration" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">Celebrating end of semester (Spring'26) and Saurabh's expected graduation.</div>
 {% include figure.html path="assets/img/camp2025.jpeg" title="SummerCamp2025" class="img-fluid rounded z-depth-1" caption="Dr. Yao in Math EdVenture Summer Camp 2025." %}
 {% include figure.html path="assets/img/thanksgiving2024.jpeg" title="Thanksgiving2024" class="img-fluid rounded z-depth-1" caption="Thanksgiving 2024 potluck in Dr. Yao's house." %}
 {% include figure.html path="assets/img/group_shenandoah_2024.jpeg" title="Shenandoah 2024" class="img-fluid rounded z-depth-1" caption="Group activity at Shenandoah in Spring'24. L2R: Surendra, Murong, Hao, Saurabh, Mohamed, Ziyu, Dingkang, Daking, and Min." %}
