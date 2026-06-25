@@ -14,13 +14,13 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>PhD Students</h3>
 <ul>
+    <li><a href="https://nico21yt.github.io/">Yitao Xu</a> (2026 Fall--)</li>
+    <li><a href="https://ayan-antik.github.io/">Ayan Antik Khan</a> (2025 Fall--)</li>
+    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring--, w/ <a href="https://gjstein.com/">Greg Stein</a> and <a href="https://erionplaku.github.io/">Erion Plaku</a>)</li>
+    <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall--)</li>
+    <li><a href="https://hyan5.github.io/">Hao Yan</a> (2022 Spring--)</li>
     <li><a href="https://dakingrai.github.io/">Daking Rai</a> (2022 Spring--)</li>
     <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring--)</li>
-    <li><a href="https://hyan5.github.io/">Hao Yan</a> (2022 Spring--)</li>
-    <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall--)</li>
-    <li><a href="http://mohamedaghzal.github.io">Mohamed Aghzal</a> (2023 Spring--, w/ <a href="https://gjstein.com/">Greg Stein</a> and <a href="https://erionplaku.github.io/">Erion Plaku</a>)</li>
-    <li><a href="https://ayan-antik.github.io/">Ayan Antik Khan</a> (2025 Fall--)</li>
-    <li><a href="https://nico21yt.github.io/">Yitao Xu</a> (2026 Fall--)</li>
 </ul>
 
 <h3>Master Students</h3>
@@ -33,7 +33,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>Undergraduate Students</h3>
 <ul>
-    <li>Siddarth Mamidanna (2025 Spring --)</li>
+    <li>Siddarth Mamidanna (2025 Spring --, remote collaborator from UCSC -> PhD@Cambridge)</li>
     <li>Sai Adith Senthil Kumar (2024 Spring -- , funded by VA CCI)</li>
     <li>Jiwon Chung (2025 Spring)</li>
     <li>Saipavan Perepa (2024 Spring -- 2025 Spring, funded by VA CCI)</li>
