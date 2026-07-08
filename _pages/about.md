@@ -9,7 +9,7 @@ profile:
   image: ziyu.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Nguyen Engineering Building, 4415</p>
+    <p>Research Hall, 407</p>
     <p>4400 University Drive</p>
     <p>Fairfax, VA, 22030</p>
   contact: ziyuyao at gmu dot edu
