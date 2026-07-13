@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am an Assistant Professor of the <a href="https://cs.gmu.edu/">Department of Computer Science at George Mason University</a>, where I co-lead the <a href="https://nlp.cs.gmu.edu/">George Mason NLP group</a>. I received my PhD degree from <a href="https://cse.osu.edu/">Department of Computer Science and Engineering at the Ohio State University (OSU)</a> in 2021, and have spent time interning at Microsoft Semantic Machines, Carnegie Mellon University, Microsoft Research, Fujitsu Lab of America, and Tsinghua University. 
+Hello! I am an Assistant Professor of the <a href="https://cs.gmu.edu/">Department of Computer Science at George Mason University</a>, where I co-lead the <a href="https://nlp.cs.gmu.edu/">George Mason NLP group</a>. I received my PhD degree from <a href="https://cse.osu.edu/">Department of Computer Science and Engineering at the Ohio State University (OSU)</a> in 2021, and have spent time interning at Microsoft Semantic Machines, Carnegie Mellon University, Microsoft Research, Fujitsu Lab of America, and Tsinghua University. I received NSF CAREER in 2026.
 
 <b>Research Sponsors:</b> My research has been founded by National Science Foundation, Microsoft Accelerate Foundation Models Research Award, Foresight Institute, Amazon Research Award, and Virginia Commonwealth Cyber Initiative, among others. 
 
