@@ -20,7 +20,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
     <li><a href="https://murongyue.github.io/">Murong Yue</a> (2022 Fall--)</li>
     <li><a href="https://hyan5.github.io/">Hao Yan</a> (2022 Spring--)</li>
     <li><a href="https://dakingrai.github.io/">Daking Rai</a> (2022 Spring--)</li>
-    <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring--2026 Summer; first stop: Adobe)</li>
+    <li><a href="http://saurabhsriv.com/">Saurabh Srivastava</a> (2022 Spring--2026 Summer; first employment: Adobe)</li>
 </ul>
 
 <h3>Master Students</h3>
@@ -86,16 +86,21 @@ Our research was funded by the following projects. We are grateful for all the s
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/amazon.png" title="Amazon" class="img-fluid rounded z-depth-1" caption="AWS Credits for Responsible AI. Role: PI." %}
     </div>
+  </div>
+  <div class="row justify-content-center mb-3">
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/foresight.png" title="Foresight Institute" class="img-fluid rounded z-depth-1" caption="Agentic Mechanistic Interpretability. Role: PI, 03/2026-05/2027. w/ Huan Sun (site PI@OSU)" %}
     </div>
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: Fostering Mathematical Modeling Competencies through Collaborative Learning in a Large Language Model (LLM) Simulated Virtual Classroom. Role: PI, 2024-2027. w/ Jennifer Suh (co-PI@GMU) and Janice Zhang (site PI@William&Mary)" url="https://ziyu-yao-nlp-lab.github.io/MathVC-NSF.github.io/" %}
     </div>
+    <div class="col-md-4 align-items-center">
+      {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code. Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}
+    </div>
   </div>
   <div class="row justify-content-center mb-3">
     <div class="col-md-4 align-items-center">
-      {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code. Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}
+      {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="IARPA’s STG AI-ML Solutions Program. Role: Co-PI, 2023-2024. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
     </div>
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing the Supply Chain of Large Language Models as Software. Role: PI, 01/2024-06/2025. w/ Xiaokuan Zhang (GMU)" %}
@@ -103,19 +108,14 @@ Our research was funded by the following projects. We are grateful for all the s
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="PatriBot Project from GMUF/GMUIF. Role: Co-PI, 05/2024-05/2025. w/ Sarah Campbell, Amarda Shehu, and Marcos Zampieri (GMU)" %}
     </div>
-  </div>
-  <div class="row justify-content-center mb-3">
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/microsoft.png" title="Microsoft Research" class="img-fluid rounded z-depth-1" caption="Azure Credits for Accelerating Foundation Models Research. Role: PI, Sept 2023-April 2025." %}
     </div>
-    <div class="col-md-4 align-items-center">
-      {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="IARPA’s STG AI-ML Solutions Program. Role: Co-PI, 2023-2024. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
-    </div>
+  </div>
+  <div class="row justify-content-center">
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing Interactions between Humans and Machines. Role: PI, 2022-2023. w/ Tyler H. Shaw (GMU)" %}
     </div>
-  </div>
-  <div class="row justify-content-center">
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="AI Engineering Seedlings. Role: Co-PI, 2021-2022. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
     </div>
