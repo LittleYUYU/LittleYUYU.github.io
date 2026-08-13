@@ -81,13 +81,16 @@ Our research was funded by the following projects. We are grateful for all the s
       {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="CAREER: Towards Scalable and Actionable Interpretability of Language Models for Code Generation. Role: PI, 07/2026-06/2031." url="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2540626" %}
     </div>
     <div class="col-md-4 align-items-center">
+      {% include figure.html path="assets/img/GMU-new.png" title="GMU" class="img-fluid rounded z-depth-1" caption="GMU Grand Challenge Initiative. Role: Co-PI, 07/2026-12/2027. w/ Jennifer Suh, Thema Monroe‑White, and Jered Borup (GMU)" url="https://www.gmu.edu/grandchallenge" %}
+    </div>
+    <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/4VA.png" title="4-VA" class="img-fluid rounded z-depth-1" caption="Collaborative Research Grant. Role: site PI at GMU, 06/2026-06/2027. w/ Tianhao Wang (lead PI@UVa)" %}
     </div>
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/amazon.png" title="Amazon" class="img-fluid rounded z-depth-1" caption="AWS Credits for Responsible AI. Role: PI." %}
     </div>
-  </div>
-  <div class="row justify-content-center mb-3">
+  <!-- </div>
+  <div class="row justify-content-center mb-3"> -->
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/foresight.png" title="Foresight Institute" class="img-fluid rounded z-depth-1" caption="Agentic Mechanistic Interpretability. Role: PI, 03/2026-05/2027. w/ Huan Sun (site PI@OSU)" %}
     </div>
@@ -97,28 +100,30 @@ Our research was funded by the following projects. We are grateful for all the s
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/nsf.jpeg" title="NSF" class="img-fluid rounded z-depth-1" caption="Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code. Role: PI@GMU, 2023-2027. w/ Kevin Moran (PI@UCF) and Denys Poshyvanyk (PI@W&M)" %}
     </div>
-  </div>
-  <div class="row justify-content-center mb-3">
+  <!-- </div>
+  <div class="row justify-content-center mb-3"> -->
     <div class="col-md-4 align-items-center">
-      {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="IARPA’s STG AI-ML Solutions Program. Role: Co-PI, 2023-2024. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
+      {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="PatriBot Project from GMUF/GMUIF. Role: Co-PI, 05/2024-08/2026. w/ Sarah Campbell, Amarda Shehu, and Marcos Zampieri (GMU)" %}
     </div>
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing the Supply Chain of Large Language Models as Software. Role: PI, 01/2024-06/2025. w/ Xiaokuan Zhang (GMU)" %}
     </div>
     <div class="col-md-4 align-items-center">
-      {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="PatriBot Project from GMUF/GMUIF. Role: Co-PI, 05/2024-05/2025. w/ Sarah Campbell, Amarda Shehu, and Marcos Zampieri (GMU)" %}
-    </div>
-    <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/microsoft.png" title="Microsoft Research" class="img-fluid rounded z-depth-1" caption="Azure Credits for Accelerating Foundation Models Research. Role: PI, Sept 2023-April 2025." %}
     </div>
-  </div>
-  <div class="row justify-content-center">
+  <!-- </div>
+  <div class="row justify-content-center"> -->
+    <div class="col-md-4 align-items-center">
+      {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="IARPA’s STG AI-ML Solutions Program. Role: Co-PI, 2023-2024. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
+    </div>
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/cci.jpeg" title="The Commonwealth Cyber Initiative" class="img-fluid rounded z-depth-1" caption="Securing Interactions between Humans and Machines. Role: PI, 2022-2023. w/ Tyler H. Shaw (GMU)" %}
     </div>
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/arlis.jpeg" title="ARLIS" class="img-fluid rounded z-depth-1" caption="AI Engineering Seedlings. Role: Co-PI, 2021-2022. w/ Ali Raz (PI@GMU), Shou Matsumoto (GMU), and Paulo Costa (GMU)" %}
     </div>
+  <!-- </div>
+  <div class="row justify-content-center"> -->
     <div class="col-md-4 align-items-center">
       {% include figure.html path="assets/img/gmu.jpeg" title="GMU" class="img-fluid rounded z-depth-1" caption="Startup Fund from CEC and CS, GMU Libraries, and the Office of Research Computing" %}
     </div>

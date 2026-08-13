@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 07/2026
+date: 06/2026
 inline: true
 related_posts: false
 ---
 
-:mortar_board: Congratulations to Saurabh on graduating! He will join <a href="https://www.adobe.com/">Adobe</a>. Best wishes!
+:gem: Our project exploring "AI literacy" and preparing teachers to be "AI-ready" was selected by GMU's <a href="https://www.gmu.edu/news/2026-05/george-mason-funds-seven-gci-catalyst-research-projects-driving-bold-solutions">Grand Challenge Initiative</a>!
