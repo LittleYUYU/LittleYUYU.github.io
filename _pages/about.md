@@ -58,11 +58,11 @@ With my students, we work on:
 
 :star2: Excited to release Version 2 of our <a href="https://arxiv.org/pdf/2407.02646">task-centric survey on Mechanistic Interpretability</a>, in collaboration with Salesforce Research, Purdue University, and George Washington University. Also check out our <a href="https://arxiv.org/pdf/2503.05613">survey on Sparse Autoencoder (SAE)</a> in collaboration with NJIT and University of Georgia.
 
-<!-- <div style="border: 3px solid #006633; padding: 10px; background-color: #f1f1f16c">
-  **:loudspeaker: I plan to recruit 2-3 PhD students for the Fall'26 cycle. In this cycle, the recruiting focus is "Actionable Interpretability of LLMs". Students with backgrounds in Interpertability and LLM reasoning/planning are welcome. If you are interested, please email me with your <b>resume, research statement, transcript, future career plan (e.g., academia or industry), representative work, and your reviews on my recent publications</b>, following the instructions on <a href="./prospective_students">this page</a>!**
+<div style="border: 3px solid #006633; padding: 10px; background-color: #f1f1f16c">
+  **:loudspeaker: I plan to recruit 1 PhD student for the Fall'27 cycle in areas including LLM/LLM agents, AI safety, and mechanistic interpretability. If you are interested, please email me with your <b>resume, research statement, transcript, future career plan (e.g., academia or industry), representative work, and your reviews on my recent publications</b>, following the instructions on <a href="./prospective_students">this page</a>!**
   <br>
-  **Why George Mason CS?** We rank at <a href="https://csrankings.org/#/index?all&us">No. 35 on CSRanking</a>. We are in one of the BEST locations for studying and living in the US, only 30min driving to Washington DC. I wrote a blog "Why you should apply for Mason CS and work with me" <a href="./why-mason-and-my-group">here</a>. 
-</div> -->
+  **Why George Mason CS?** We rank at <a href="https://csrankings.org/#/index?all&us">No. 32 on CSRanking</a>. We are in one of the BEST locations for studying and living in the US, only 30min driving to Washington DC. I wrote a blog "Why you should apply for Mason CS and work with me" <a href="./why-mason-and-my-group">here</a>. 
+</div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
