@@ -9,6 +9,7 @@ nav_order: 6
 
 :trophy: Awards to my students:
 <ul>
+    <li>First-place white-box approach, <a herf="https://aletheias-quest.github.io/index.html">Aletheia’s Quest Competition (for LLM lie detection)</a>, Cadenza Labs, NDIF, and Schmidt Sciences, 2026 (to the GMU-Veritaserum team by Ayan Antik Khan, Mohamed Aghzal, and myself)</li>
     <li>KEEN Award ($1k Prize) at the CEC Undergraduate Research Celebration, GMU, 2025 (to Sai Adith Senthil Kumar, presenting <a href="https://arxiv.org/pdf/2504.06460">Counterfactual Persona Simulation</a>)</li>
     <li>Best Paper Honorable Mention (to Daking Rai for <a href="https://arxiv.org/pdf/2507.00322">Failure by Interference</a>), The First Workshop on the Application of LLM Explainability to Reasoning and Planning, COLM 2025.</li>
     <li>NeurIPS Travel Award, 2025 (to Daking Rai)</li>
@@ -23,6 +24,7 @@ nav_order: 6
 
 :trophy: Awards to me:
 <ul>
+    <li>First-place white-box approach, <a herf="https://aletheias-quest.github.io/index.html">Aletheia’s Quest Competition (for LLM lie detection)</a>, Cadenza Labs, NDIF, and Schmidt Sciences, 2026 (to the GMU-Veritaserum team by Ayan Antik Khan, Mohamed Aghzal, and myself)</li>
     <li>NSF CAREER Award, 2026</li>
     <li>Amazon Research Award, 2026.</li>
     <li>CVPR Paper Highlight (awarded to top 3% accepted papers, to <a href="">ViT OOD through inner workings</a>), CVPR 2026.</li>
