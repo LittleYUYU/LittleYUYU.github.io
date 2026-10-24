@@ -25,6 +25,7 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>Master Students</h3>
 <ul>
+    <li>Pawan Sai Chigurupati (2026 Fall)</li>
     <li>Sweta Pati (2024 Summer -- 2025 Spring)</li>
     <li>Sam Miller (2024 Summer -- 2025 Spring)</li>
     <li>Janit Bidhan (2022 Fall)</li>
@@ -33,6 +34,10 @@ My group welcomes collaborations! We have hosted <a href="../group_reading">mult
 
 <h3>Undergraduate Students</h3>
 <ul>
+    <li>Domenico Joseph Elia (2026 Fall -- )</li>
+    <li>Lakshmi M Katrapati (2026 Fall -- )</li>
+    <li>Manav Sridhar (2026 Fall)</li>
+    <li>Yuzhang Luo (2026 Summer -- 2026 Fall, remote collaborator from Peking University)</li>
     <li>Siddarth Mamidanna (2025 Spring --, remote collaborator from UCSC -> PhD@Cambridge)</li>
     <li>Sai Adith Senthil Kumar (2024 Spring -- , funded by VA CCI)</li>
     <li>Jiwon Chung (2025 Spring)</li>
