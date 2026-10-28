@@ -19,7 +19,7 @@ nav_order: 5
     <li>Organizing Committee: <a href="https://xllm-reasoning-planning-workshop.github.io/">LLM Explainability Workshop at COLM 2025</a>,
     <a href="https://2024.naacl.org/">NAACL 2024 (as Diversity&Inclusion Co-Chair)</a>, <a href="https://www.mascsll.org/">Mid-Atlantic Student Colloquium for Speech, Language, and Learning (MASC-SLL) 2023</a>, <a href="https://suki-workshop.github.io/">SUKI at NAACL2022</a>, <a href="https://nlp4prog.github.io/2021/">NLP4Prog at ACL2021</a></li>	
     <li>Senior Area Chair: NAACL 2027</li>
-    <li>Area Chair: ACL Rolling Review (ARR), NeurIPS 2026, ICLR 2026, ACL 2023, EMNLP 2022</li>
+    <li>Area Chair: ACL Rolling Review (ARR), ICML 2027, NeurIPS 2026, ICLR 2026, ACL 2023, EMNLP 2022</li>
     <li>Senior Program Committee: AAAI 2023, AAAI 2024</li>
     <li>Session Chair: AAAI 2023</li>
     <!-- <li>Program Committee: ACL Rolling Review (ARR), ACL, EMNLP, NAACL, NeurIPS, ICLR, COLM, AAAI, AACL-IJNLP, NLPCC, CoNLL, Mining Software Repositories (MSR)</li> -->
